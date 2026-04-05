@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="robots" content="noindex">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="icons/site_icon.png" rel="icon">
+    <link href="style.css" rel="stylesheet">
+    <title>Character</title>
+</head>
+<body id="charBackground">
+    <div id="bg"></div>
+    <div id="languages">
+            <button id="en">EN</button>
+            <button id="fr">FR</button>
+    </div>
+    <button id="back"><a href="characters.html">◀</a></button>
+    <h1 id="charName"></h1>
+    <i id="charTitle"></i>
+    <section id="charSection01">
+        <div id="identity">
+            <img id="charProfil" alt="Character's profil picture">
+            <div>
+                <ul>
+                    <li><strong data-i18n="li1">Full name : </strong><span id="charFullname"></span></li>
+                    <li><strong data-i18n="li3">Age : </strong><span id="charAge"></span></li>
+                    <li><strong data-i18n="li4">Birthday : </strong><span id="charBirthday"></span></li>
+                    <li><strong data-i18n="li5">Gender : </strong><span id="charGender"></span></li>
+                    <li><strong data-i18n="li6">Sexual orientation : </strong><span id="charOrientation"></span></li>
+                    <li><strong data-i18n="li7">Height : </strong><span id="charHeight"></span></li>
+                    <li><strong data-i18n="li8">Weight : </strong><span id="charWeight"></span></li>
+                    <li><strong data-i18n="li9">Current situation : </strong></li>
+                    <ul>
+                        <li id="charSituation01"></li>
+                        <li id="charSituation02"></li>
+                    </ul>
+                </ul>
+            </div>
+            <img id="charLOGO" src="img/LOGO.png">
+        </div>
+        <div id="description">
+            <h3>Description</h3>
+            <p id="charDescription"></p>
+        </div>
+    </section>
+    <section id="gallery">
+        <h2 id="galleryTitle" data-i18n="gallery">Gallery</h2>
+
+        <div class="carousel">
+            <button class="nav prev">◄</button>
+            <div class="track-container">
+                <div class="track" id="galleryTrack"></div>
+            </div>
+            <button class="nav next">►</button>
+        </div>
+    </section>
+    <div id="lightbox">
+        <img id="lightboxImg">
+    </div>
+        <div id="origins">
+            <img id="charIcon" alt="Funny little icon">
+            <h3 data-i18n="origin">Origins</h3>
+            <p id="charOrigin"></p>
+        </div>
+<footer>
+    <small data-i18n="pfooter">Created by NeWiAr</small>
+</footer>
+</body>
+<script src="characters.js"></script>
+<script src="languages.js"></script>
+</html>

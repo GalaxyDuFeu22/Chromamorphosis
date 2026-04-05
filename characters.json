@@ -1,0 +1,762 @@
+{
+  "grouka": {
+        "dotColor": "#9e3120",
+        "bgBase": "#c7432e",
+        "secondcolor": "#80281b",
+        "thirdcolor": "#f7dbd7",
+
+        "profil": "img/characters/Grouka/grouka_01.png",
+
+        "name": "Grouka",
+
+        "title": {
+            "en": "The Smile Protector",
+            "fr": "Le Protecteur du Sourire"
+        },
+
+        "fullname": "Grouka Florencia",
+
+        "age": {
+            "en": "23 years old",
+            "fr": "23 ans"
+        },
+
+        "birthday": {
+            "en": "March 20",
+            "fr": "20 mars"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Gay",
+            "fr": "Gay"
+        },
+
+        "height": {
+            "en": "180cm / 5'11\"",
+            "fr": "1m80"
+        },
+
+        "weight": {
+            "en": "70kg / 154lbs",
+            "fr": "70kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Balloon sculptor",
+            "fr": "Sculpteur de ballon"
+        },
+
+        "description": {
+            "en": "Grouka is a very carefree and inconsiderate young man, but he doesn't do it on purpose. He's actually hyperactive, he never stops talking, saying whatever comes to mind, and he hates to stay still. Unfortunately, he doesn't know how to weigh his words carefully, and he often risks unintentionally hurting the person he's talking to. He's also very possessive and jealous when he likes someone a lot and gets along really well with them. Grouka is quite childish, very optimistic, and rarely thinks about misfortune. He's not very cautious to be honest... Besides, he usually thinks his ideas are very good.",
+            "fr": "Grouka est un jeune homme très insouciant et négligent vis-à-vis des autres, mais il ne le fait pas spécialement exprès. Il serait en réalité hyperactif, il ne cesse de parler, de dire tout ce qui lui passe par la tête et il a horreur de rester immobile. Malheureusement il ne sait pas peser et retenir ses mots, il risque souvent de blesser la personne en face sans le vouloir. Il est aussi très possessif et jaloux lorsqu'il aime énormément une personne et qu'il s'entend vraiment bien avec. Grouka est assez enfantin, très optimiste et ne pense que très rarement au malheur, il n'est pas trop prudent à vrai dire... En plus il pense, le plus souvent, que ses idées sont très bonnes."
+        },
+        "gallery": [
+            "img/characters/Grouka/grouka_01.png",
+            "img/characters/Grouka/grouka_02.png",
+            "img/characters/Grouka/grouka_03.png",
+            "img/characters/Grouka/grouka_04.png"
+            ],
+        
+        "origin": {
+            "en": "Grouka, being a Protector, comes from the Father Tree and was taken in by Sydney, who is now his mother. He was taken when the bud opened, Sydney chose him immediately, as she had always wanted a child. As the Protector of Smiles, little guys appear when he sees someone smile. These little guys usually appear on the person's shoulder and have their own personality, generally linked to that of their owner, though there can be exceptions. Furthermore, the gender of the little guy doesn't depend on the person's gender, it's random! Usually, the little guys are there to make the person laugh and smile, but Grouka likes to take them.",
+            "fr": "Grouka étant un Protecteur, il provient de l'arbre Père et il a été récupéré par Sydney qui est maintenant sa mère. Il a été récupéré quand le bourgeon s'est ouvert, Sydney l'a directement choisi, elle a toujours voulu avoir un enfant. En tant que Protecteur du Sourire, des petits bonhommes apparaissent lorsqu'il aperçoit quelqu'un sourire. Et ce petit bonhomme apparaît généralement sur l'épaule de la personne, il a aussi sa propre personnalité, généralement liée à celle du propriétaire, mais il peut y avoir des exceptions. D'ailleurs, le genre du petit bonhomme ne dépend pas de celui de la personne, c'est du hasard ! Habituellement, les petits bonhommes sont là pour faire rire et faire sourire la personne, mais Grouka aime les récupérer."
+        },
+
+        "icon": "img/characters/Grouka/GroukaCharacter.png"
+        
+    },
+
+  "medoc": {
+        "dotColor": "#8b42a8",
+        "bgBase": "#9c59d4",
+        "secondcolor": "#461c57",
+        "thirdcolor": "#cba5f0",
+
+        "profil": "img/characters/Medoc/medoc_01.png",
+
+        "name": "Médoc",
+
+        "title": {
+            "en": "The Protector of Time",
+            "fr": "La Protectrice du Temps"
+        },
+
+        "fullname": "Médoc Florencia",
+
+        "age": {
+            "en": "24 years old",
+            "fr": "24 ans"
+        },
+
+        "birthday": {
+            "en": "April 7",
+            "fr": "7 avril"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "155cm / 5'1\"",
+            "fr": "1m55"
+        },
+
+        "weight": {
+            "en": "80kg / 176lbs",
+            "fr": "80kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Doctor / Fortune teller",
+            "fr": "Docteur / Voyante"
+        },
+
+        "description": {
+            "en": "She most often acts like a mother or older sister to others, it's very instinctive. She's very considerate of others, even if she doesn't show it often. She has a strong character and will never let herself be taken advantage of. But she remains a very gentle woman when needed.",
+            "fr": "Elle se comporte le plus souvent comme une mère ou grande sœur envers les autres, c'est très instinctivement. Elle fait très attention aux autres même si elle ne le montre pas si souvent que ça, elle garde un fort caractère et ne se laissera jamais faire. Mais elle reste une femme très douce lorsqu'il y a besoin de l'être."
+        },
+        
+        "gallery": [
+            "img/characters/Medoc/medoc_01.png",
+            "img/characters/Medoc/medoc_02.png",
+            "img/characters/Medoc/medoc_03.png"
+            ],
+
+        "origin": {
+            "en": "Médoc was taken in by a man who worked at the Rujitep village orphanage. He noticed that the cradle had held the child for quite some time, and no one came to see her. It was there that she learned to use her powers and was given her name, because she healed other children. Unfortunately, the orphanage caught fire one night. She ran outside, and that's where she met Grouka. She can see the future and past of those who hold her hand using her left eye, located on her left hand. She mainly uses this power as a fortune teller to earn money, she cannot use it on herself or other Protectors. But with her power, she is also able to heal wounds. In fact, she accelerates the healing process by speeding up the body's cells, making her a very useful doctor.",
+            "fr": "Médoc a été recueilli par un homme qui travaille dans l'orphelinat du village Rujitep car il voyait que ce berceau contenait l'enfant depuis pas mal de temps et personne ne venait. C'est ici qu'elle a appris l'utilisation de ses pouvoirs et qu'on lui a donné ce nom, car elle guérissait les autres enfants. Malheureusement l'orphelinat a pris feu une nuit, elle s'est enfuie dehors et c'est là qu'elle rencontrera Grouka. Elle est capable de voir le futur et le passé des personnes qui lui tiennent la main tout en utilisant son œil gauche situé sur sa main gauche. Elle utilise ce pouvoir surtout en tant que voyante pour gagner de l'argent, elle ne peut d'ailleurs pas l'utiliser sur elle-même ou les autres Protecteurs. Mais avec son pouvoir, elle est aussi capable de guérir les blessures, en fait elle va accélérer le processus de guérison en accélérant les cellules du corps, ce qui en fait une docteur très utile."
+        },
+
+        "icon": "img/characters/Medoc/MedocCharacter.png"
+    },
+
+  "domino": {
+        "dotColor": "#42a886",
+        "bgBase": "#59d492",
+        "secondcolor": "#1c573d",
+        "thirdcolor": "#a5f0d4",
+
+        "profil": "img/characters/Domino/domino_01.png",
+
+        "name": "Domino",
+
+        "title": {
+            "en": "The Protector of Life",
+            "fr": "Le Protecteur de la Vie"
+        },
+
+        "fullname": "Domino Estres",
+
+        "age": {
+            "en": "+300 years old",
+            "fr": "+300 ans"
+        },
+
+        "birthday": {
+            "en": "February 2",
+            "fr": "2 février"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "178cm / 5'10\"",
+            "fr": "1m78"
+        },
+
+        "weight": {
+            "en": "68kg / 150lbs",
+            "fr": "68kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "School's professor",
+            "fr": "Professeur des écoles"
+        },
+
+        "description": {
+            "en": "Domino is generally a calm man, but when things get out of hand, he panics and loses his composure. He even starts running around asking for help, he has a lot of trouble managing stress and making decisions. That's why he prefers to plan everything before doing anything, especially his classes. He has a bit of trouble improvising, to be honest, and besides, he doesn't have a good memory, so he forgets things quite easily.",
+            "fr": "Domino est un homme généralement calme, mais quand les choses sont hors de contrôle, il se met à paniquer et en oublie sa sérénité. Il se met même à courir un peu partout pour demander de l'aide, il a beaucoup de mal à gérer le stress et prendre des décisions. C'est pour cela qu'il préfère tout prévoir avant de faire quelque chose, en particulier ses cours. Il a un peu de mal à improviser à vrai dire, de plus il n'a pas une bonne mémoire, il oublie assez facilement."
+        },
+        
+        "gallery": [
+            "img/characters/Domino/domino_01.png",
+            "img/characters/Domino/domino_02.png"
+            ],
+
+        "origin": {
+            "en": "Domino obviously comes from a Father tree, he has already died several times because of his mistakes and his negligence towards those around him, thinking he lived in a world of rainbows and unicorns. This also means that his appearance has changed greatly over time. He knew Ara and his father, he knows her past well personally... even if he has forgotten a few details.",
+            "fr": "Domino vient bien évidemment d'un arbre Père, il est déjà mort plusieurs fois à cause de ses erreurs et sa négligence autour de lui, il pensait vivre dans un monde de bisounours. Cela veut dire aussi que son apparence a grandement évolué au fil du temps. Il a connu Ara et son père, il connaît bien son passé personnellement... Même s'il a oublié quelques détails."
+        },
+
+        "icon": "img/characters/Domino/DominoCharacter.png"
+    },
+
+  "aurel": {
+        "dotColor": "#384d9c",
+        "bgBase": "#507dc7",
+        "secondcolor": "#0f184d",
+        "thirdcolor": "#e3e9f8",
+
+        "profil": "img/characters/Aurel/aurel_01.png",
+
+        "name": "Aurel",
+
+        "title": {
+            "en": "The Protector of Eternity",
+            "fr": "Le Protecteur de l'éternité"
+        },
+
+        "fullname": "Aurel O'Donnell",
+
+        "age": {
+            "en": "+20 000 years old",
+            "fr": "+20 000 ans"
+        },
+
+        "birthday": {
+            "en": "June 5",
+            "fr": "5 juin"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "170cm / 5'7\"",
+            "fr": "1m70"
+        },
+
+        "weight": {
+            "en": "65kg / 143lbs",
+            "fr": "65kg"
+        },
+
+        "situation01": {
+            "en": "Married father",
+            "fr": "Père marié"
+        },
+
+        "situation02": {
+            "en": "Mayor",
+            "fr": "Maire"
+        },
+
+        "description": {
+            "en": "Behind his serious and calm exterior, Aurel is obsessed with the parasite, and he'll do anything to find it and keep it with him forever. In fact, he's incredibly stubborn; once he gets an idea in his head, he'll do whatever it takes to make it happen, and no one dares contradict him! Furthermore, he dislikes humans in general, believing that the Protectors are divine beings who should be above them, so he often belittles them. Despite this, he has a human wife, but she mainly serves as a placeholder in his life until he finds the parasite. He's lived on this planet for so many years that he's rarely surprised, especially by death and violence, as he's become accustomed to them over time. Experiencing feelings has become almost impossible for him; relationships have become routine, and only the parasite can evoke emotions in him.",
+            "fr": "Aurel, derrière son côté très sérieux et calme, est un homme obsédé par le parasite, et il fera vraiment tout pour le retrouver et le garder avec lui pour toujours. En fait, c'est un personnage très têtu, une fois qu'il a une idée en tête, il va tout faire pour la réaliser, et on a pas le droit de le contredire ! De plus, il n'aime pas du tout les humains en général, il pense que les Protecteurs sont des êtres divins qui doivent être au dessus des humains, il va donc souvent les rabaisser. Malgré ça, il a une femme humaine, mais elle sert surtout comme un bouche trou dans sa vie jusqu'à ce qu'il retrouve le parasite. Il a vécu tellement d'années sur la planète qu'il est très peu surpris, surtout devant la mort, la violence, car il a eu l'habitude au fil des années. Et ressentir des sentiments devient presque impossible pour lui, tout est en quelque sorte devenu une routine dans les relations, seul le parasite arrive à lui faire sentir des émotions."
+        },
+        
+        "gallery": [
+            "img/characters/Aurel/aurel_01.png",
+            "img/characters/Aurel/aurel_02.jpg"
+            ],
+
+        "origin": {
+            "en": "Aurel is the very first Protector to have come into being, at the dawn of the very first Father Tree! Although he appears human today, this was not at all the case before, as the Guardians didn't yet know which creature to copy. He mostly resembled a lifeless, softened mass of flesh. Then, over time, he passed through various forms like animal, insect, plant, and so on until the Guardians learned to create humans. Aurel possesses a rather powerful ability: he can command someone to do anything he wants, but only with their consent! First, he must touch the person anywhere, then he says a phrase like, “Do you wish to love me for eternity ?” If the person agrees, the power activates, and the person will love Aurel forever. There's no going back! Conversely, if the person declines, then nothing happens.",
+            "fr": "Aurel est le tout premier Protecteur a être venu au monde, à l'apparition du tout premier Arbre Père ! Bien qu'il ait l'apparence d'un humain aujourd'hui, ce n'était pas du tout le cas avant car les gardiens ne savaient pas encore quelle créature recopier, alors il ressemblait surtout à un tas de chair ramollit, sans vie. Puis au fil du temps, il passe par plusieurs type de corps, que ce soit animal, insecte, végétal etc... Jusqu'à ce que les gardiens apprennent à réaliser les humains. Aurel a une sorte de pouvoir assez puissant, il peut ordonner à la personne de faire tout ce qu'il veut, mais seulement avec le consentement de l'autre ! Tout d'abord il doit toucher la personne, n'importe où, puis il dit une phrase du style “Souhaites-tu m'aimer pour l'éternité ?”, si la personne accepte, alors le pouvoir s'active, et ainsi la personne en face aimera Aurel pour toujours. Il n'y a pas de retour arrière ! Et au contraire si la personne décline, alors rien ne se passe."
+        },
+
+        "icon": "img/characters/Aurel/AurelCharacter.png"
+    },
+
+ "zaos": {
+        "dotColor": "#384d9c",
+        "bgBase": "#507dc7",
+        "secondcolor": "#0f184d",
+        "thirdcolor": "#e3e9f8",
+
+        "profil": "img/characters/Zaos/zaos_01.png",
+
+        "name": "Zaos",
+
+        "title": {
+            "en": "The Protector of Justice",
+            "fr": "Le Protecteur de la Justice"
+        },
+
+        "fullname": "Zaos Rose",
+
+        "age": {
+            "en": "117 years old",
+            "fr": "117 ans"
+        },
+
+        "birthday": {
+            "en": "October 25",
+            "fr": "25 octobre"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "180cm / 5'11\"",
+            "fr": "1m80"
+        },
+
+        "weight": {
+            "en": "90kg / 198lbs",
+            "fr": "90kg"
+        },
+
+        "situation01": {
+            "en": "Single father",
+            "fr": "Père célibataire"
+        },
+
+        "situation02": {
+            "en": "Police officer",
+            "fr": "Policier"
+        },
+
+        "description": {
+            "en": "Zaos is a very stubborn and authoritarian person. He really doesn't like taking orders from others, but he had to do it to become police chief. Unfortunately, he's also quite violent and quick-tempered; he gets angry very easily. However, that doesn't mean he's heartless. On the contrary, he sometimes regrets what he's done, but he doesn't apologize; he simply tells himself it will pass on its own. Even though Zaos seems cold and incapable of showing affection, he isn't. If he's attached to someone, he won't show it at first, but he genuinely loves that person. In fact, Zaos has a lot of trouble expressing his feelings, even though he feels many deep down. He's also a very protective man, so he'll do everything he can to protect those he cares about. But he sometimes experiences conflict with his feelings and can hold a grudge against someone for a very long time, even if it has been years.",
+            "fr": "Zaos est une personne très têtue et bien autoritaire dans sa vie, il n'aime vraiment pas être sous les ordres des autres, mais il a bien fallu le faire pour pouvoir devenir chef de police. Malheureusement c'est aussi une personne assez violente, et nerveuse, il s'énerve vraiment facilement, mais pour autant, cela ne veut pas dire qu'il n'a pas de cœur. Au contraire, il lui arrive de regretter ce qu'il a fait, mais il ne s'excuse pas, il se dit simplement que ça passera tout seul. Même si Zaos semble une personne au final froide et qui ne peut donner d'affection, hé bien il ne l'est pas, s'il est attaché à une personne, au départ, il ne montrera rien, mais il aime sincèrement cette personne. En fait, Zaos a beaucoup de mal à exprimer ses sentiments malgré qu'il en ressent beaucoup au fond de lui, puis c'est aussi un homme très protecteur alors il fera tout son possible pour protéger ceux à qui il tient. Mais il lui arrive d'être en conflit avec ses sentiments et peut en vouloir à quelqu'un pour une très longue durée même si cela fait des années."
+        },
+        
+        "gallery": [
+            "img/characters/Zaos/zaos_01.png"
+            ],
+
+        "origin": {
+            "en": "Like any self-respecting Protector, he comes from the Father Tree, but the first, which explains his great age. He's had several accidents along the way with his rather dangerous professions; he's always loved being active and having action. Although he almost never uses his powers, Zaos is able to detect whether the person he's talking to is lying or not. How? Well, his horns are actually a bit like antennae that pick up the signals of the person in front of him, analyzing their heartbeat, blood pressure, and overall feeling. His brain automatically interprets this as a lie or the truth, and of course, this doesn't work on other Protectors. Why does he never use his power? Well, as the Protector of Justice, he finds it technically unfair, and if he did it often, he'd get too used to it and it would permanently ruin his relationships with others. It's almost as if he's showing that he has no trust in the person in front of him, so that's why he's avoiding them.",
+            "fr": "Comme tout bon Protecteur qui se respecte, il vient de l'arbre Père, mais le premier, ce qui explique alors son grand âge. Il a bien sûr eu plusieurs accidents en cours de route avec ses métiers assez dangereux, il a toujours aimé être actif et avoir de l'action. Bien qu'il n'utilise presque jamais ses pouvoirs, Zaos est capable de repérer si la personne en face ment ou non. Comment ? Hé bien en fait ses cornes sont un peu comme des antennes qui viennent capter les signaux de la personne en face, analysant ainsi son battement de cœur, sa pression et son ressenti. Automatiquement, son cerveau interprétera cela comme un mensonge ou une vérité, et bien évidemment, cela ne marche pas sur les autres Protecteurs et Protectrices. Pourquoi n'utilise-t-il jamais son pouvoir ? Hé bien en tant que Protecteur de la Justice, il trouve ça techniquement injuste, puis s'il le fait souvent, il prendrait trop cette habitude et cela ruinerait définitivement sa relation avec les autres. Un peu comme s'il montrait qu'il n'avait aucune confiance en la personne en face, alors cest pour cela qu'il évite."
+        },
+
+        "icon": "img/characters/Zaos/ZaosCharacter.png"
+    },
+
+
+  "ara": {
+        "dotColor": "#384d9c",
+        "bgBase": "#507dc7",
+        "secondcolor": "#0f184d",
+        "thirdcolor": "#d7e6f7",
+
+        "profil": "img/characters/Ara/ara_01.png",
+
+        "name": "Ara",
+
+        "title": {
+            "en": "The ancient warrior",
+            "fr": "L'ancienne guerrière"
+        },
+
+        "fullname": "Ara",
+
+        "age": {
+            "en": "~24 years old",
+            "fr": "~24 ans"
+        },
+
+        "birthday": {
+            "en": "October 12",
+            "fr": "12 octobre"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "165cm / 5'5\"",
+            "fr": "1m65"
+        },
+
+        "weight": {
+            "en": "62kg / 137lbs",
+            "fr": "62kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "No job",
+            "fr": "Aucune occupation"
+        },
+
+        "description": {
+            "en": "Since Ara has no memories of her past, she often finds herself confused, not quite understanding what's happening around her. She's rather quiet, but she has so many questions. The problem is, she has so many that she doesn't know which ones to ask, especially to Grouka, who is very talkative. She's extremely suspicious of everyone and finds it hard to trust, but she's also very curious.",
+            "fr": "Puisqu'Ara n'a vraiment pas de souvenirs de son passé, elle se retrouve souvent confuse, à ne pas trop comprendre ce qu'il se passe autour d'elle. Elle est assez silencieuse mais elle a tellement de questions, le problème c'est qu'elle en a tellement qu'elle ne saurait lesquelles posées, surtout à Grouka qui est très bavard. Elle se méfie énormément de tout le monde, elle fait difficilement confiance mais elle est très curieuse."
+        },
+        
+        "gallery": [
+            "img/characters/Ara/ara_01.png",
+            "img/characters/Ara/ara_02.png",
+            "img/characters/Ara/ara_03.png",
+            "img/characters/Ara/ara_04.png"
+            ],
+
+        "origin": {
+            "en": "Ara comes from a time about a century ago. She was a true warrior who followed in her father's footsteps. Now, she finds herself in the present because of Domino, who had made a promise to her father.",
+            "fr": "Ara provient d'une époque d'il y a environ 1 siècle, elle était une vraie guerrière qui a suivi les pas de son père. Désormais, elle se retrouve dans le présent à cause de Domino qui avait fait une promesse à son père."
+        },
+
+        "icon": "img/characters/Ara/AraCharacter.png"
+    },
+
+  "alison": {
+        "dotColor": "#9e2020",
+        "bgBase": "#c72e2e",
+        "secondcolor": "#801b1b",
+        "thirdcolor": "#f7d7d7",
+
+        "profil": "img/characters/Alison/alison_01.png",
+
+        "name": "Alison",
+
+        "title": {
+            "en": "The lonely girl",
+            "fr": "La fille solitaire"
+        },
+
+        "fullname": "Alison Melody",
+
+        "age": {
+            "en": "20 years old",
+            "fr": "20 ans"
+        },
+
+        "birthday": {
+            "en": "February 14",
+            "fr": "14 février"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Aromantic",
+            "fr": "Aromantique"
+        },
+
+        "height": {
+            "en": "168cm / 5'6\"",
+            "fr": "1m68"
+        },
+
+        "weight": {
+            "en": "66kg / 146lbs",
+            "fr": "66kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Hunter",
+            "fr": "Chasseuse"
+        },
+
+        "description": {
+            "en": "Alison is a shy girl, but she sometimes tries to reach out to others because she feels terribly alone. Even though her cousin Syma visits her occasionally, she still feels lonely because he talks and talks, but she doesn't really get a chance to talk to him about her own life. In fact, people frighten her a little because she's afraid of being judged, afraid of being misunderstood, and so on. Furthermore, as a hunter, she sometimes has to go hunting, but she doesn't really enjoy it, unfortunately, it's currently her only way to earn money. With all this pressure and stress piling up in her life, Alison has become extremely withdrawn, and this is affecting her health. She has ended up becoming depressed, even clinically depressed. No one seems to care about her, perhaps because she doesn't show it.",
+            "fr": "Alison est une fille assez timide mais elle tente parfois de venir vers les autres, car elle se sent terriblement seule. Malgré que Syma, son cousin, lui rend parfois visite, elle se sent seule car il parle, il parle, mais elle n'a pas trop l'occasion de lui parler de sa propre vie. En fait, les gens lui font un peu peur, car elle a peur d'être jugée, peur d'être mal comprise etc... De plus, en tant que chasseuse, elle doit parfois partir à la chasse, mais elle n'aime pas vraiment ça, malheureusement c'est, pour le moment, son seul moyen de gagner de l'argent. Avec l'accumulation de toute cette pression et tout ce stress dans sa vie, Alison se renferme énormément et cela a des répercussions sur sa santé. Elle a fini par déprimer jusqu'à avoir une dépression, personne ne semble se soucier d'elle, peut-être parce qu'elle ne le montre pas."
+        },
+        
+        "gallery": [
+            "img/characters/Alison/alison_01.png",
+            "img/characters/Alison/alison_02.png",
+            "img/characters/Alison/alison_03.png"
+            ],
+
+        "origin": {
+            "en": "Alison comes from the city of Suruna, where she grew up. She learned to hunt from her parents, it's a kind of family tradition, even though she was forced into it. Sometimes her father regretted having a daughter, believing that this was why she struggled with hunting. Over the years, she hasn't been able to pursue any further studies or training because she considers herself “destined for hunting” even though she doesn't want to.",
+            "fr": "Alison provient de la ville de Suruna où elle a grandi. Elle a appris à chasser grâce à ses parents, c'est une sorte de tradition dans la famille même si elle en a été forcée. Il lui arrivait que son père regrettait d'avoir mis au monde une fille, il pense que c'est à cause de ça qu'elle a dû mal à se faire à la chasse. Au fil des années, elle n'a pu faire d'autres études ou formations car elle se dit être “Destinée à la chasse” malgré qu'elle ne le veut pas."
+        },
+
+        "icon": "img/characters/Alison/AlisonCharacter.png"
+    },
+
+  "lumni": {
+        "dotColor": "#429ea8",
+        "bgBase": "#59afd4",
+        "secondcolor": "#1c4557",
+        "thirdcolor": "#a5d6f0",
+
+        "profil": "img/characters/Lumni/lumni_01.png",
+
+        "name": "Lumni",
+
+        "title": {
+            "en": "The chef",
+            "fr": "Le chef cuisinier"
+        },
+
+        "fullname": "Lumni Carsol",
+
+        "age": {
+            "en": "23 years old",
+            "fr": "23 ans"
+        },
+
+        "birthday": {
+            "en": "October 20",
+            "fr": "20 octobre"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "172cm / 5'8\"",
+            "fr": "1m72"
+        },
+
+        "weight": {
+            "en": "80kg / 176lbs",
+            "fr": "80kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Chef",
+            "fr": "Cuisinier"
+        },
+
+        "description": {
+            "en": "Lumni is a very patient and gentle man. He loves cooking for others, and in fact, he plans to make it his profession. He listens attentively and remembers what people say, so when he prepares a dish, he knows exactly what the person likes. He also loves trying new recipes and hopes to create new ones to share with his family, friends, and clients. He always offers a free sample! Lumni is also very independent and responsible, so much so that he sometimes puts others before himself, especially in his relationship, he always puts his wife first!",
+            "fr": "Lumni est un homme très très patient et doux, il adore cuisiner pour les autres, c'est d'ailleurs ainsi qu'il en fera son métier. Il est très à l'écoute des personnes et n'oublie pas ce qu'ils disent, ainsi lorsqu'il prépare un plat, il sait ce qu'aime la personne. C'est une personne qui adore aussi essayer plein de choses en termes de recette, il espère en créer des nouvelles à proposer à sa famille, ses amis, ou ses clients, d'ailleurs il propose toujours un petit échantillon gratuit pour goûter ! Lunmi, c'est aussi un homme très autonome et responsable, tellement que parfois il fait passer les autres avant lui, surtout en terme de couple, il fait toujours passer sa femme avant lui !"
+        },
+        
+        "gallery": [
+            "img/characters/Lumni/lumni_01.png",
+            "img/characters/Lumni/lumni_02.png"
+            ],
+
+        "origin": {
+            "en": "Lumni comes from a family that, let's face it, isn't exactly rolling in money. But his parents still took great care of him, even after the birth of his little brother, Solan. In fact, they get along very well, and Lumni loves giving him presents because he loves seeing him happy! Then, a few years later, Solan does the same.",
+            "fr": "Lumni vient d'une famille qui, osons le dire, ne roule pas sur l'or. Mais ses parents faisaient quand même très attention à lui, et cela, même après la naissance de son petit frère, Solan. D'ailleurs il s'entend très bien avec lui et Lumni adore lui offrir des cadeaux, car il aime le voir heureux ! Puis Solan fait de même quelques années plus tard."
+        },
+
+        "icon": "img/characters/Lumni/LumniCharacter.png"
+    },
+
+  "oshi": {
+        "dotColor": "#9e2078",
+        "bgBase": "#c72e99",
+        "secondcolor": "#801b5e",
+        "thirdcolor": "#f7d7f1",
+
+        "profil": "img/characters/Oshi/oshi_01.png",
+
+        "name": "Óshi",
+
+        "title": {
+            "en": "The actress",
+            "fr": "L'actrice'"
+        },
+
+        "fullname": "Óshi Naí",
+
+        "age": {
+            "en": "22 years old",
+            "fr": "22 ans"
+        },
+
+        "birthday": {
+            "en": "Marsh 27",
+            "fr": "27 mars"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Aroace",
+            "fr": "Aroace"
+        },
+
+        "height": {
+            "en": "162cm / 5'4\"",
+            "fr": "1m62"
+        },
+
+        "weight": {
+            "en": "58kg / 128lbs",
+            "fr": "58kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Playwright / Actress",
+            "fr": "Dramaturge / Actrice"
+        },
+
+        "description": {
+            "en": "Óshi is an extremely curious woman with very intense emotions. She expresses them very clearly, almost without restraint, shifting effortlessly from anger to joy, as if she were switching between roles. This is why she can be described as highly sensitive and dramatic; Óshi notices every gesture made in her presence, observing everything that happens around her. She loves being informed and is interested in all sorts of things. For example, she pays close attention to the mannerisms and speech patterns of those around her, finding them incredibly intriguing. She can also find potential in any character trait, whether positive or negative.",
+            "fr": "Óshi est une femme extrêmement curieuse avec des émotions très très intenses. C'est-à-dire qu'elle montre très clairement ses émotions sans en quelque sorte doser, elle passe très très facilement de la colère à la joie, comme si elle passait d'un rôle à un autre. C'est aussi pour cela que l'on peut dire qu'elle est vraiment très sensible et dramatique, chaque geste que l'on peut faire devant elle peut être retenu par Óshi, elle est extrêmement attentive à tout ce qu'il se passe devant et autour d'elle. Elle adore être au courant de beaucoup de choses et s'intéresse à tout et n'importe quoi. Par exemple, elle fait très très attention aux manières et façon de parler des autres autour, elle trouve ça très très intriguant. Elle peut aussi trouver un potentiel dans n'importe quel trait de caractère des personnes, que ce soit positif ou négatif."
+        },
+        
+        "gallery": [
+            "img/characters/Oshi/oshi_01.png",
+            "img/characters/Oshi/oshi_02.png",
+            "img/characters/Oshi/oshi_03.png"
+            ],
+
+        "origin": {
+            "en": "Óshi is actually controlled by the parasite. She comes from a family that hid her away. In fact, because of her strange appearance, white skin and eyes that could change color at will, the family was truly afraid the world would take notice of her. The mother gave birth at home because the father worked and her daughter, Shizen, was at school. When she discovered Óshi's true appearance, she preferred to hide her from everyone, even her family (other than her husband and first daughter). She claimed to have had a miscarriage, which seemed strange to some family members. Over the years, while Óshi continued to act very strangely, almost as if she had a mental illness, she developed a great interest in theater and acting. She would sometimes impersonate others or create characters in her room. She even started writing plays and poems ! Shizen harbored very bad intentions toward her little sister, not only because she couldn't bear the idea of having such a strange person in the family, but also because she was frightened by her. So she decided to use Óshi as a puppet to perform for an audience. Her snow-white skin was a great help in implying that she was a puppet. To do this, she would drug Óshi by putting sleeping pills in her water, then go and perform with her as a puppet, wearing a mask, all the while reciting plays written by Óshi ! Her parents weren't entirely happy about it until they saw the money they were earning. But one day, Óshi discovered the full horror of it all by seeing it on TV (excerpts from a news report about Shizen and her “puppet”), as this was all she did during the day since she was forbidden from going out. So one evening she decided to put an end to it all and killed her family with her theater staff (thanks to a mysterious force). She fled and never set foot there again. Eventually, she met Domino, Protector of Life, who gave her a theater mask that she would keep for life, it was her most precious gift. She stayed in the forest for a few hours before stumbling upon Syma, who was playing the violin.",
+            "fr": "Óshi est en réalité contrôlée par le parasite, elle vient d'une famille qui la cachait, en fait, vu qu'elle avait cette drôle d'apparence avec la peau blanche et les yeux qui peuvent changer de couleur quand elle le souhaitait, la famille avait vraiment peur que le monde s'interesse à elle. La mère avait accouché chez elle car le père travaillait et sa fille, Shizen, était à l'école. Lorsqu'elle a découvert l'apparence d'Óshi, elle a préféré la cacher de tout le monde, même de sa famille (autre que son mari et sa première fille), elle a donc dit avoir fait une fausse couche, ce qui parait bizarre pour certains membres de la famille. Au fil des années, alors qu'Óshi agissait toujours très bizarrement, un peu comme si elle avait une maladie mentale, elle s'intéressa énormément au théâtre, au jeu d'acteur. Alors il lui arrivait de se prendre pour les autres de temps en temps, ou de créer des personnages quand elle était dans sa chambre. Elle a même commencé à écrire des pièces de théâtre et des poèmes ! Shizen avait de très mauvaises intentions à l'égard de sa petite sœur, car non seulement elle ne supportait pas l'idée d'avoir une personne aussi étrange dans sa famille, mais aussi car elle lui faisait peur. Elle a donc décidé de se servir d'Óshi comme de marionnette pour jouer devant le public. Sa peau aussi blanche que la neige lui a beaucoup servi pour dire que c'est une marionnette. Ainsi, pour se faire, elle endort Óshi en mettant des somnifères dans son verre d'eau puis elle part jouer avec elle en tant que marionnette avec un masque sur la tête, tout en reprenant les pièces écrites par Óshi ! Ses parents n'étaient pas vraiment d'accord jusqu'à ce qu'ils voient l'argent qu'ils remportent. Mais un jour, Óshi découvre toute cette horreur en le voyant à la télé (des extraits de reportage sur Shizen et sa “marionnette”), car c'est ce qu'elle fait le plus durant ses journées puisqu'on l'empêche de sortir. Alors un soir elle décida de mettre un terme à tout ça et tua sa famille avec son bâton de théâtre (grâce à une force mystérieuse). Elle s'enfuit et ne remet plus jamais les pieds ici. Et elle finit par rencontrer Domino, Protecteur de la Vie qui lui donne un masque de théâtre qu'elle gardera à vie, c'est son plus beau cadeau à ses yeux. Elle restait dans la forêt quelques heures avant de tomber sur Syma qui jouait du violon."
+        },
+
+        "icon": "img/characters/Oshi/OshiCharacter.png"
+    },
+
+
+  "koneo": {
+        "dotColor": "#8b42a8",
+        "bgBase": "#9c59d4",
+        "secondcolor": "#461c57",
+        "thirdcolor": "#cba5f0",
+
+        "profil": "img/characters/Koneo/koneo_01.png",
+
+        "name": "Konéo",
+
+        "title": {
+            "en": "The blueberry boy",
+            "fr": "Le garçon myrtille"
+        },
+
+        "fullname": "Konéo ???",
+
+        "age": {
+            "en": "18 years old",
+            "fr": "18 ans"
+        },
+
+        "birthday": {
+            "en": "???",
+            "fr": "???"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight ?",
+            "fr": "Hétéro ?"
+        },
+
+        "height": {
+            "en": "160cm / 5'3\"",
+            "fr": "1m60"
+        },
+
+        "weight": {
+            "en": "?kg / ?lbs",
+            "fr": "?kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Waiter",
+            "fr": "Serveur"
+        },
+
+        "description": {
+            "en": "A weird little buddy.",
+            "fr": "Un petit gars bizarre."
+        },
+        
+        "gallery": [
+            "img/characters/Koneo/koneo_01.png",
+            "img/characters/Koneo/koneo_02.jpg",
+            "img/characters/Koneo/koneo_03.png",
+            "img/characters/Koneo/koneo_04.png"
+            ],
+
+        "origin": {
+            "en": "He came from another planet.",
+            "fr": "Il vient d'une autre planète."
+        },
+
+        "icon": "img/characters/Koneo/KoneoCharacter.png"
+    }
+
+}

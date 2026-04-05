@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="icons/site_icon.png" rel="icon">
+    <link href="style.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create your Protector</title>
+</head>
+<body>
+    <div id="bg"></div>
+    <div id="languages">
+            <button id="en">EN</button>
+            <button id="fr">FR</button>
+    </div>
+    <button id="back"><a href="index.html">◀</a></button>
+    <h1 data-i18n="createTitle">Create your own Protector !</h1>
+    <p><span data-i18n="createDescription1">Create you own </span><a href="lore.html" id="linkProtector" data-i18n="linkProtector">Protector</a><span data-i18n="createDescription2"> with random parts and draw them ! I would like to see what you did ;]</span></p>
+    
+    <button id="allRandom" data-i18n="allRandom">All random</button>
+    <div id="FirstRandom">
+        <h4><img src="img/img_default.png" id="gender" alt="Random gender"><button id="RbuttonGender">🔄️</button></h4>
+        <div><h4><span data-i18n="field">Field : </span><span id="field">???</span> <button id="RbuttonField">🔄️</button></h4></div>
+        <div><h4>Outfit : <span id="outfit">???</span> <button id="RbuttonOutfit">🔄️</button></h4></div>
+    </div>
+    <section id="random">
+        <div class="randomCard">
+            <p data-i18n="species">Species</p>
+            <div id="imageStack">
+                <img src="img/img_default.png" class="layer" id="defaultLayer">
+                <img src="img/species/base.png" class="layer base">
+                <img class="layer feature" id="layer1">
+                <img class="layer feature" id="layer2">
+                <img class="layer feature" id="layer3">
+                <img class="layer feature" id="layer4">
+            </div>
+            <button id="Rbutton01">🎲</button>
+        </div>
+        <div class="randomCard">
+            <p data-i18n="eyes">Eyes</p>
+            <img src="img/img_default.png" id="Rimg02" alt="Random picture 02">
+            <button id="Rbutton02">🎲</button>
+        </div>
+        <div class="randomCard">
+            <p data-i18n="pupils">Pupils</p>
+            <img src="img/img_default.png" id="Rimg03" alt="Random picture 03">
+            <button id="Rbutton03">🎲</button>
+        </div>
+        <div class="randomCard">
+            <p data-i18n="nose">Nose</p>
+            <img src="img/img_default.png" id="Rimg04" alt="Random picture 04">
+            <button id="Rbutton04">🎲</button>
+        </div>
+        <div class="randomCard">
+            <p data-i18n="nails">Nails</p>
+            <img src="img/img_default.png" id="Rimg05" alt="Random picture 05">
+            <button id="Rbutton05">🎲</button>
+        </div>
+        <div class="randomCard">
+            <p data-i18n="hair">Hair</p>
+            <img src="img/img_default.png" id="Rimg06" alt="Random picture 06">
+            <button id="Rbutton06">🎲</button>
+        </div>
+        <div class="randomCard">
+            <p data-i18n="bodyMarks">Body marks</p>
+            <img src="img/img_default.png" id="Rimg07" alt="Random picture 07">
+            <button id="Rbutton07">🎲</button>
+        </div>
+    </section>
+    <hr id="HRgame">
+    <div class="randomCard" id="color">
+            <h2 data-i18n="wantColors">Want some colors ?</h2>
+            <img src="img/img_default.png" id="Rcolor" alt="Random color palette">
+            <button id="RbuttonColor">🎲</button>
+    </div>
+<footer>
+    <small data-i18n="pfooter">Created by NeWiAr</small>
+</footer>
+</body>
+<script src="createProtector.js"></script>
+<script src="languages.js"></script>
+</html>
