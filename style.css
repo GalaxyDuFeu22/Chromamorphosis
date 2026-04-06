@@ -258,6 +258,12 @@ footer{
     flex-wrap: wrap;
     gap: 40px;
     justify-content: center;
+    max-width: 1200px;
+    margin-inline: auto;
+}
+
+.characterCard {
+    width: 200px;
 }
 
     .characterCard>h3{
@@ -271,6 +277,7 @@ footer{
 
 #charSection01 {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 50px;
     margin-block: 50px;
@@ -309,7 +316,6 @@ footer{
     display: flex;
     border-radius: 10px;
     position: relative;
-    background-color: lightgrey;
     color: black;
     padding: 20px;
     padding-right: 100px;
@@ -317,6 +323,7 @@ footer{
     overflow: hidden;
     transform: rotate(-2deg);
     transition: 0.4s;
+    height: 100%;
 }
 
     #identity>div {

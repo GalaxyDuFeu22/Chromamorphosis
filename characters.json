@@ -302,7 +302,7 @@
         "icon": "img/characters/Aurel/AurelCharacter.png"
     },
 
- "zaos": {
+  "zaos": {
         "dotColor": "#384d9c",
         "bgBase": "#507dc7",
         "secondcolor": "#0f184d",
@@ -374,6 +374,233 @@
         },
 
         "icon": "img/characters/Zaos/ZaosCharacter.png"
+    },
+
+  "sharma": {
+        "dotColor": "#9c8e38",
+        "bgBase": "#c7a750",
+        "secondcolor": "#4d480f",
+        "thirdcolor": "#f7f5e4",
+
+        "profil": "img/characters/Sharma/sharma_01.png",
+
+        "name": "Sharma",
+
+        "title": {
+            "en": "The Protector of Identity",
+            "fr": "Le Protecteur de la l'Identité"
+        },
+
+        "fullname": "Sharma Müller",
+
+        "age": {
+            "en": "+6 000 years old",
+            "fr": "+6 000 ans"
+        },
+
+        "birthday": {
+            "en": "October 11",
+            "fr": "11 octobre"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "167cm / 5'6\"",
+            "fr": "1m67"
+        },
+
+        "weight": {
+            "en": "70kg / 154lbs",
+            "fr": "70kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Major's assistant / Cat breeder  ",
+            "fr": "Assistant du maire / Éleveur de chats"
+        },
+
+        "description": {
+            "en": "Sharma is a man who likes to dress elegantly and with distinction, he takes great care of his appearance. He's the type to wear a lot of cologne, and he often enjoys judging other people's looks. When someone is too weak or timid, he automatically considers himself superior, and he makes this perfectly clear with judgmental looks and harsh words. But if someone seems strong and authoritative, he adopts a more submissive stance, not daring to speak harshly to them, and even admiring them. He's also quite cruel to his sister because she's hypersensitive and very vulnerable.",
+            "fr": "Sharma est un homme qui aime s'habiller de façon élégante et distinguée, il fait très attention à lui. Il est d'ailleurs du genre à mettre pas mal de parfum, et souvent, il s'amuse à juger le physique des autres. Lorsqu'une personne est trop faible ou timide, il se trouve automatiquement supérieur à elle, et le fait bien savoir entre regards de jugement et des vilains mots. Mais si la personne semble forte et autoritaire, il se met plus en position de “soumission”, n'osant pas lui parler mal, voire à l'admirer. Il est d'ailleurs assez méchant avec sa sœur car elle est hypersensible et très faible."
+        },
+        
+        "gallery": [
+            "img/characters/Sharma/sharma_01.png",
+            "img/characters/Sharma/sharma_02.png"
+            ],
+
+        "origin": {
+            "en": "Sharma was born from the Father Tree with a twin sister named Vaika. They were the very first twins ever created and have always been adopted together. Having lived thousands of years ago, he sometimes struggles with the modern world and the evolution of society, but he tries his best! Sharma is able to take on the appearance of anyone as long as he has properly analyzed their face and body. However, mimicking their voice is much harder; it's not something he can really do.",
+            "fr": "Sharma est né de l'arbre père avec une sœur jumelle appelée Vaika. Ce sont les tout premiers jumeaux jamais créés et ils ont toujours été adoptés ensemble. Ayant vécu il y a des milliers années, il a parfois du mal avec le monde actuel et l'évolution de la société, mais il fait des efforts ! Sharma est capable de prendre l'apparence de n'importe qui tant qu'il a pu bien analysé le visage et le corps de la personne. Cependant, prendre la voix de celle-ci est bien plus dur, ce n'est pas vraiment quelque chose qu'il arrive à faire."
+        },
+
+        "icon": "img/characters/Sharma/SharmaCharacter.png"
+    },
+
+  "vaika": {
+        "dotColor": "#5e5f75",
+        "bgBase": "#838ba8",
+        "secondcolor": "#24242e",
+        "thirdcolor": "#cecfd6",
+
+        "profil": "img/characters/Vaika/vaika_01.png",
+
+        "name": "Vaika",
+
+        "title": {
+            "en": "The Protector of Identity",
+            "fr": "Le Protectrice de l'Identité"
+        },
+
+        "fullname": "Vaika Müller",
+
+        "age": {
+            "en": "+6 000 years old",
+            "fr": "+6 000 ans"
+        },
+
+        "birthday": {
+            "en": "October 11",
+            "fr": "11 octobre"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "160cm / 5'3\"",
+            "fr": "1m60"
+        },
+
+        "weight": {
+            "en": "57kg / 126lbs",
+            "fr": "57kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Nurse",
+            "fr": "Infirmière"
+        },
+
+        "description": {
+            "en": "Vaika is a highly sensitive girl who tends to cry a lot, she really struggles to control it. She's also quite touchy, fragile, and vulnerable, but that doesn't stop her from caring for others. In fact, she became a nurse to help them. She also loves animals, especially cats. She and her brother breed Maine Coons, and they participate in cat shows. Vaika is also afraid of pain, so she rarely dares to do anything in her life for fear of hurting herself or someone else. She also tends to faint when overwhelmed by strong emotions.",
+            "fr": "Vaika est une fille hypersensible et a tendance à énormément pleurer,  elle a vraiment du mal à contrôler ça.  Elle est d'ailleurs assez susceptible,  fragile et faible,  mais ça ne l'empêche pas de faire attention aux autres, elle est d'ailleurs devenue infirmière pour aider. Elle aime aussi beaucoup les animaux, et surtout les chats,  elle a un élevage de Maine Coons avec son frère et ils participent aux concours. Vaika a aussi d'ailleurs peur de la douleur alors elle va oser très peu de choses dans sa vie par peur de se blesser elle-même ou quelqu'un d'autre. Elle a aussi tendance à s'évanouir sous le coup de trop fortes émotions."
+        },
+        
+        "gallery": [
+            "img/characters/Vaika/vaika_01.png",
+            "img/characters/Vaika/vaika_02.png",
+            "img/characters/Vaika/vaika_03.png"
+            ],
+
+        "origin": {
+            "en": "Vaika was born with her twin brother Sharma, they are the only twin Protectors in existence. Unfortunately, she is often put down by her brother because of her personality, but despite this, she sometimes stays with him. While Sharma can easily change his appearance but not his voice, Vaika is the opposite. She has a very high capacity for changing her voice, whether it's another person or an animal. She cannot change her physical form, all she can do is transform into a small, all-black creature!",
+            "fr": "Vaika est née avec son frère jumeau Sharma, ce sont les seuls Protecteurs jumeaux à exister. Malheureusement,  elle se fait souvent rabaisser par son frère à cause de son caractère, mais malgré tout, elle reste quelquefois avec lui. Alors que Sharma peut changer d'apparence facilement mais pas la voix, Vaika c'est l'inverse. Elle aura une très grande facilité à changer sa voix, que ce soit une autre personne ou un animal. Elle n'arrive pas à se changer physiquement, tout ce qu'elle sait faire, c'est se changer en une petite créature toute noire !"
+        },
+
+        "icon": "img/characters/Vaika/VaikaCharacter.png"
+    },
+
+  "sibel": {
+        "dotColor": "#9c385b",
+        "bgBase": "#c7507f",
+        "secondcolor": "#4d0f2a",
+        "thirdcolor": "#f7e4ec",
+
+        "profil": "img/characters/Sibel/sibel_01.png",
+
+        "name": "Sibel",
+
+        "title": {
+            "en": "The Protector of Love",
+            "fr": "Le Protectrice de l'Amour"
+        },
+
+        "fullname": "Sibel LaRose",
+
+        "age": {
+            "en": "+600 years old",
+            "fr": "+600 ans"
+        },
+
+        "birthday": {
+            "en": "February 14",
+            "fr": "14 février"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Lesbian",
+            "fr": "Lesbienne"
+        },
+
+        "height": {
+            "en": "172cm / 5'8\"",
+            "fr": "1m72"
+        },
+
+        "weight": {
+            "en": "65kg / 143lbs",
+            "fr": "65kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Writer / Poet",
+            "fr": "Écrivaine / Poète"
+        },
+
+        "description": {
+            "en": "Sibel is a woman with incredible self-confidence, she's rarely, if ever, seen embarrassed, it's a very rare phenomenon! She also has a rather charming and flirtatious personality. She loves playing with words with women, but without making fun of them, she remains very respectful. She usually keeps her eyes closed, but she can still see, she only opens them in front of people she knows very well. And sometimes she enjoys doing this with a woman she's attracted to, as a kind of flirtation. Aside from that, Sibel is very responsible and independent. She takes care of her surroundings, herself, others, her belongings, and so on. She's also trustworthy, she'll keep secrets, even if she does enjoy giving people a bit of a scare.",
+            "fr": "Sibel est une femme qui a vraiment bien confiance en elle, on la voit peu voir jamais embarassée, c'est un phénomène très rare ! Mais elle a aussi un caractère assez charmeur et dragueur, elle aime beaucoup jouer avec les mots auprès des femmes, mais sans se moquer d'elles, elle reste très respectueuse. Habituellement elle garde les yeux fermés, mais elle peut toujours voir, elle les ouvre seulement devant les personnes qu'elle connaît vraiment bien. Et parfois elle s'amuse à le faire avec une femme qu'elle aimerait beaucoup, comme une sorte de drague. Mis à part cela, Sibel est très responsable et autonome dans sa vie, elle prend soin de son environnement, d'elle-même, des autres, des objets qu'elle possède etc... On peut lui faire confiance aussi, elle saura garder les secrets même si elle aime bien faire des frayeurs."
+        },
+        
+        "gallery": [
+            "img/characters/Sibel/sibel_01.png",
+            "img/characters/Sibel/sibel_02.png",
+            "img/characters/Sibel/sibel_03.png"
+            ],
+
+        "origin": {
+            "en": "Sibel was born on February 14th, and her birth was like a sign of hope for those around her. In fact, she was taken in by a man who strongly believed in Protectors, who relied on them greatly, and he made this known to others. So, on the day of Sibel's birth, Valentine's Day became a symbol of hope and love in a world still at war. She was greatly cherished as a result, and over the years, decades, and centuries, people have become less fanatical than before. Thanks to her touch, she is able to protect one person from another if that person loves her at least a little. For example, if someone shouts at another, Sibel touches the victim's shoulder, and thus the other person can no longer insult or hit her, showing that they care for the victim. With her eyes, she can also see the romantic feelings of others. From her perspective, it's like seeing in infrared, the pinker the light, the more in love the person is. Conversely, the bluer the light, the less the person cares for the other person. These powers don't work on other Protectors, and no, she can't make people fall in love, she's not Cupid! However, she can help people find their soulmate.",
+            "fr": "Sibel est né un 14 février, et sa naissance était comme un signe d'espoir pour les gens autour. En fait, elle a été recueillie par un homme qui croyait fort aux Protecteurs, qui comptait beaucoup sur eux et il le fit savoir aux autres. Alors le jour de la naissance de Sibel, c'est la naissance de la fête de la Saint-Valentin qui devient un signe d'espoir et d'amour où le monde était encore en guerre. Elle a été énormément chouchoutée suite à cela, et au fil des années, des décennies et des siècles, les gens sont moins fanatiques qu'avant. Grâce à son touchée, elle est capable de protéger une personne contre une autre si celle-ci l'aime au moins un peu. Par exemple, si une personne crie sur une autre, Sibel vient toucher l'épaule de la victime, et ainsi la personne en face ne peut plus l'insulter ou la frapper, montrant alors que cette personne tient à la victime. Avec ses yeux, elle est aussi capable de voir les sentiments amoureux des autres, depuis ses yeux, c'est comme voir en vision infrarouge, plus c'est rose, et plus la personne est amoureuse. Inversement, plus c'est bleu, et plus la personne ne tient pas à la personne en face d'elle. Ces pouvoirs ne fonctionnent pas sur les autres Protecteurs et non, elle ne peut pas rendre les gens amoureux, ce n'est pas Cupidon ! Elle peut cependant aider les gens à trouver leur âme sœur."
+        },
+
+        "icon": "img/characters/Sibel/SibelCharacter.png"
     },
 
 
@@ -530,6 +757,80 @@
         "icon": "img/characters/Alison/AlisonCharacter.png"
     },
 
+  "syma": {
+        "dotColor": "#9e3d20",
+        "bgBase": "#c7542e",
+        "secondcolor": "#803b1b",
+        "thirdcolor": "#f7e0d7",
+
+        "profil": "img/characters/Syma/syma_01.png",
+
+        "name": "Syma",
+
+        "title": {
+            "en": "The musician",
+            "fr": "Le musicien"
+        },
+
+        "fullname": "Syma Hills",
+
+        "age": {
+            "en": "23 years old",
+            "fr": "23 ans"
+        },
+
+        "birthday": {
+            "en": "June 21",
+            "fr": "21 juin"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Bisexual",
+            "fr": "Bisexuel"
+        },
+
+        "height": {
+            "en": "172cm / 5'8\"",
+            "fr": "1m72"
+        },
+
+        "weight": {
+            "en": "70kg / 154lbs",
+            "fr": "70kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Muscian",
+            "fr": "Musicien"
+        },
+
+        "description": {
+            "en": "Syma is passionate about music, he loves analyzing other people's compositions and creating his own. He plays all sorts of instruments, but he particularly enjoys the violin and piano, which he finds pleasant and peaceful. He's a man quite plagued by his negative thoughts, it's true that he tends to focus on the worst aspects of a situation, even if there are positive ones, and he doesn't know how to help others. He often ignores someone's sadness and speaks for them, saying that he really needs to get it all out. He remains a very independent and solitary person, even though he's very much in love with Óshi because she truly exudes something special. Aside from that, Syma is very modest and can compose music for others, free of charge upon request. He can also protect someone if he truly cares for them, using words or his fists depending on his mood and the situation. Syma is well aware of his rather gloomy side at times, especially in romantic relationships, he is often absent and inattentive even when he is very much in love, he feels guilty.",
+            "fr": "Syma est un passionné de musique, il adore analyser les compositions des autres et créer ses propres musiques. Il joue toute sorte d'instruments, mais en particulier le violon et le piano qu'il trouve agréable et paisible. C'est un homme assez rongé par ses mauvaises pensées, il est vrai qu'il retient surtout le pire d'une situation même s'il y a du positif, et il ne sait pas du tout comment aider les autres. Il lui arrive souvent d'ignorer la tristesse d'une personne et de parler à la place de ses problèmes, disant qu'il a vraiment besoin d'extérioriser tout ça. Il reste quelqu'un de très indépendant et solitaire dans la vie, même s'il est très amoureux d'Óshi car elle dégage vraiment quelque chose de spéciale en elle. Mis à part ça, Syma reste quelqu'un de très modeste et peut composer des musiques pour les autres, gratuitement selon la demande. Il peut aussi protéger une personne s'il l'apprécie vraiment, il utilisera les mots ou les poings selon son humeur et la situation. Syma est bien conscient de son côté assez morose parfois, surtout dans les relations amoureuses, il est assez souvent absent et peu attentif même s'il est très amoureux, il se sent coupable."
+        },
+        
+        "gallery": [
+            "img/characters/Syma/syma_01.png"
+            ],
+
+        "origin": {
+            "en": "Syma was born Victor. He comes from a kind and caring family who always accepted his desire to become a musician and were always there for him. But when he was younger, one day he was walking home from school with his little sister, but she was hit by a car while he wasn't paying attention. Since then, he has always blamed himself and sees himself as a devil, hence the horns he styles in his hair. Despite this, his family helps him overcome the terrible sadness that has consumed him, and that's where his name Syma comes from, a blend of 'symphony' and 'Sanma', his sister's name. Although his official documents still list him as Victor, he prefers to be called Syma.",
+            "fr": "Syma s'appelait Victor à la naissance, il vient d'une gentille famille bienveillante qui a toujours accepté le fait qu'il voulait devenir musicien, elle a toujours été là pour lui. Mais lorsqu'il était plus jeune, un jour il devait rentrer avec sa petite sœur de l'école, mais celle-ci s'est faite renverser par une voiture alors qu'il ne faisait pas attention. Et depuis, il s'en est toujours voulu et se voit comme un diable, d'où le fait qu'il forme des cornes avec ses cheveux. Malgré cela, sa famille l'aide à surmonter cette terrible tristesse qui le ronge depuis, et c'est de là que vient son prénom Syma, c'est le mélange entre symphonie et Sanma, le prénom de sa sœur. Bien que sur les papiers officiels, le prénom Victor reste inscrit, il préfère qu'on l'appelle Syma."
+        },
+
+        "icon": "img/characters/Syma/SymaCharacter.png"
+    },
+
   "lumni": {
         "dotColor": "#429ea8",
         "bgBase": "#59afd4",
@@ -589,7 +890,7 @@
 
         "description": {
             "en": "Lumni is a very patient and gentle man. He loves cooking for others, and in fact, he plans to make it his profession. He listens attentively and remembers what people say, so when he prepares a dish, he knows exactly what the person likes. He also loves trying new recipes and hopes to create new ones to share with his family, friends, and clients. He always offers a free sample! Lumni is also very independent and responsible, so much so that he sometimes puts others before himself, especially in his relationship, he will always puts his wife first! At least, when he doesn't cheat on her...",
-            "fr": "Lumni est un homme très très patient et doux, il adore cuisiner pour les autres, c'est d'ailleurs ainsi qu'il en fera son métier. Il est très à l'écoute des personnes et n'oublie pas ce qu'ils disent, ainsi lorsqu'il prépare un plat, il sait ce qu'aime la personne. C'est une personne qui adore aussi essayer plein de choses en termes de recette, il espère en créer des nouvelles à proposer à sa famille, ses amis, ou ses clients, d'ailleurs il propose toujours un petit échantillon gratuit pour goûter ! Lumni, c'est aussi un homme très autonome et responsable, tellement que parfois il fait passer les autres avant lui, surtout en terme de couple, il ferait toujours passer sa femme avant lui ! Du moins, lorsqu'il ne le trompe pas..."
+            "fr": "Lumni est un homme très très patient et doux, il adore cuisiner pour les autres, c'est d'ailleurs ainsi qu'il en fera son métier. Il est très à l'écoute des personnes et n'oublie pas ce qu'ils disent, ainsi lorsqu'il prépare un plat, il sait ce qu'aime la personne. C'est une personne qui adore aussi essayer plein de choses en termes de recette, il espère en créer des nouvelles à proposer à sa famille, ses amis, ou ses clients, d'ailleurs il propose toujours un petit échantillon gratuit pour goûter ! Lumni, c'est aussi un homme très autonome et responsable, tellement que parfois il fait passer les autres avant lui, surtout en terme de couple, il ferait toujours passer sa femme avant lui ! Du moins, lorsqu'il ne la trompe pas..."
         },
         
         "gallery": [
@@ -603,6 +904,80 @@
         },
 
         "icon": "img/characters/Lumni/LumniCharacter.png"
+    },
+
+  "solan": {
+        "dotColor": "#59afd4",
+        "bgBase": "#59d2d4",
+        "secondcolor": "#1c5757",
+        "thirdcolor": "#a5f0ed",
+
+        "profil": "img/characters/Solan/solan_01.png",
+
+        "name": "Solan",
+
+        "title": {
+            "en": "The photographer",
+            "fr": "Le photographe"
+        },
+
+        "fullname": "Solan Carsol",
+
+        "age": {
+            "en": "18 years old",
+            "fr": "18 ans"
+        },
+
+        "birthday": {
+            "en": "August 19",
+            "fr": "19 août"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "171cm / 5'7\"",
+            "fr": "1m71"
+        },
+
+        "weight": {
+            "en": "70kg / 154lbs",
+            "fr": "70kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Photographer",
+            "fr": "Photographe"
+        },
+
+        "description": {
+            "en": "Solan is a modest but very determined person, he's ready to go all the way! He's quite kind and energetic, and he loves talking to people and making new acquaintances. In fact, he loves filming or taking photos of his acquaintances and sharing them later. He's often eager for new experiences and loves to travel! But he also has a strange tendency to be attracted to older women.",
+            "fr": "Solan est une personne modeste mais très déterminée dans la vie, il est prêt à aller jusqu'au bout ! Il est assez gentil et énergique, il adore parler aux autres et faire de nouvelles connaissances. D'ailleurs, il adore filmer ou prendre en photos ses connaissances et les montrer après. C'est un homme souvent volontaire pour de nouvelles expériences, il adore voyager d'ailleurs ! Mais il a aussi une drôle de tendance à être attiré par des femmes assez âgées."
+        },
+        
+        "gallery": [
+            "img/characters/Solan/solan_01.png"
+            ],
+
+        "origin": {
+            "en": "Solan comes from a family that, let's face it, isn't exactly rolling in money. He's Lumni's younger brother, and they get along wonderfully. He's always been passionate about photography and film, in fact, he received a camera for his 18th birthday! And since then, he's taken photos almost every day like about people, landscapes, animals, and so on.",
+            "fr": "Solan vient d'une famille qui, osons le dire, ne roule pas sur l'or. Il est le petit frère de Lumni, et ils s'entendent à merveille. Il a toujours été passionné par la photographie et les films, il a d'ailleurs reçu un appareil photo à ses 18 ans ! Et depuis, il fait des photos presque tous les jours, des gens, des paysages, des animaux etc..."
+        },
+
+        "icon": "img/characters/Solan/SolanCharacter.png"
     },
 
   "oshi": {
@@ -679,6 +1054,155 @@
         },
 
         "icon": "img/characters/Oshi/OshiCharacter.png"
+    },
+
+  "louiss": {
+        "dotColor": "#a87242",
+        "bgBase": "#d48e59",
+        "secondcolor": "#57381c",
+        "thirdcolor": "#f0c7a5",
+
+        "profil": "img/characters/Louiss/louiss_01.png",
+
+        "name": "Louiss",
+
+        "title": {
+            "en": "The crazy one",
+            "fr": "Le fou"
+        },
+
+        "fullname": "Louiss Arakana",
+
+        "age": {
+            "en": "26 years old",
+            "fr": "26 ans"
+        },
+
+        "birthday": {
+            "en": "December 14",
+            "fr": "14 décembre"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Bisexual",
+            "fr": "Bisexuel"
+        },
+
+        "height": {
+            "en": "168cm / 5'6\"",
+            "fr": "1m68"
+        },
+
+        "weight": {
+            "en": "78kg / 172lbs",
+            "fr": "78kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Artist",
+            "fr": "Artiste"
+        },
+
+        "description": {
+            "en": "Louiss is a man who takes many risks in his life. He's fearless, believing that you only live once, so you might as well live it to the fullest. He's not afraid to speak his mind about what he's done or who he is, and he loves to joke around. He sometimes makes dark jokes or laughs at others, but for him, it's all just for fun! He's not a bad person, even though he's taken risks or done illegal things. He's not the type to fight or put others down intentionally. He's also very close to the LGBT+ community. Being bisexual himself, he's not afraid to be open about it and to ask others about their sexual orientation. He also often draws about it. He's a very open-minded person, so the good thing is that he'll never really judge anyone, unless it's just for laughs. In his daily life, Louiss loves trying new things, especially with his appearance, whether it's tattoos, piercings, hair color, contact lenses, nail polish, clothes, etc. He's an extremely creative man, but also quite narcissistic, so he loves doing everything himself, like absolutely everything, and he likes to tell others to let him do it to prove his talent. Louiss also strongly believes in ghosts and spirits, he's incredibly passionate about them, but he's also very afraid of them. He's not the brave type when it comes to the paranormal. He's also quite superstitious and believes in astrological signs.",
+            "fr": "Louiss est un homme qui ose beaucoup de choses dans sa vie, il n'a pas peur, il se dit qu'on a qu'une vie alors autant y aller. Il n'a pas peur de dire ce qu'il a fait ou ce qu'il est, et il adore blaguer, ça lui arrive de faire de l'humour noir ou rire des autres, mais pour lui c'est juste de l'amusement ! Il n'est pas pour autant méchant même s'il a déjà pris des risques ou fait des choses illégales, il n'est pas du style à se battre ou rabaisser les autres en le faisant exprès. Il est de même très très proche de la communauté LGBT+, étant lui même bisexuel, il n'a pas peur de le dire et de demander aux autres leur orientation sexuelle par la même occasion. Il en dessine aussi souvent en dessin, il est quelqu'un de très très ouvert, alors le positif est qu'il ne jugera jamais vraiment, à moins que ce soit pour rire. Au quotidien, Louiss adore tester de nouvelles choses, en particulier sur son physique, que ce soit tatouage, piercings, couleur de cheveux, lentilles, vernis, vêtements etc... C'est un homme extrêmement créatif mais aussi assez narcissique, alors il adore tout faire lui même, vraiment tout, il aime bien dire aux autres de le laisser faire pour prouver son talent. Louiss croit aussi fort aux fantômes et esprits, il en est énormément passionné, mais il en a très peur, il n'est pas du style courageux face au paranormal. Il est assez superstitieux aussi et croit aux signes astrologiques."
+        },
+        
+        "gallery": [
+            "img/characters/Louiss/louiss_01.png",
+            "img/characters/Louiss/louiss_02.png"
+            ],
+
+        "origin": {
+            "en": "Louiss used to be called Louis, but he wanted something original, so he added an 's' as if to reference the snake. He has a sister named Louise, and he comes from a family with a Japanese father and an American mother. He loves to say he's 100% Japanese thanks to his father, even though he isn't. Louiss has always been a very creative child, so he wanted to make his creations real, which is why he started drawing very early, around the age of three. He mostly enjoyed drawing animals and all sorts of creatures, and little by little he started drawing humans, his own characters, and then creating his own stories. He has a drawing account on several social media platforms where he loves to share everything, and he has even published webtoons. During his adolescence, that's when he changed the most. He pierced his own ears, gave himself tattoos, and even cut his tongue with scissors! He ended up in the hospital because of it, and he finally had to see a professional. He also took some rather strange substances and injected himself, but he's stopped now, even though he wouldn't say no to it.",
+            "fr": "Louiss s'appelait Louis avant, mais il voulait de l'originalité, alors il a ajouté un 's', comme pour faire référence au serpent. Il a une sœur du nom de Louise et il vient d'une famille avec un père japonais et une mère américaine. Il adore dire qu'il est 100% japonais grâce à son père,  même s'il ne l'est pas. Louiss a toujours été un enfant très créatif, alors il a voulu faire en sorte que ses créations soient réelles, alors il s'est mis au dessin très tôt, vers l'âge de 3 ans déjà. Il s'amusait surtout à dessiner des animaux ou toutes sortes de créatures, et petit à petit il s'est mis à dessiner des humains, ses propres persos, puis faire ses propres histoires. Il possède un compte dessin sur plusieurs réseaux sociaux où il adore tout partager, il a de même déjà publié des webtoons. Durant son adolescence, c'est là qu'il a le plus changé, il s'est percé lui-même les oreilles, fait ses propres tatouages, et il s'est même coupé la langue avec un ciseau ! Il a dû finir à l'hôpital à cause de ça, et il a finalement dû aller voir un professionnel. Il a aussi pris des substances assez étranges et s'est déjà piqué, mais il a arrêté maintenant, même s'il n'en refuserait pas."
+        },
+
+        "icon": "img/characters/Louiss/LouissCharacter.png"
+    },
+
+  "hazel": {
+        "dotColor": "#5d7991",
+        "bgBase": "#7297b8",
+        "secondcolor": "#232e38",
+        "thirdcolor": "#aebfd1",
+
+        "profil": "img/characters/Hazel/hazel_01.png",
+
+        "name": "Hazel",
+
+        "title": {
+            "en": "The blind person of peace",
+            "fr": "L'aveugle de la paix"
+        },
+
+        "fullname": "Hazel Tiersel",
+
+        "age": {
+            "en": "35 years old",
+            "fr": "35 ans"
+        },
+
+        "birthday": {
+            "en": "October 4",
+            "fr": "4 octobre"
+        },
+
+        "gender": {
+            "en": "Non-binary (All pronouns)",
+            "fr": "Non-binaire (Tous pronoms)"
+        },
+
+        "orientation": {
+            "en": "Asexual pansexual",
+            "fr": "Pansexuel asexué"
+        },
+
+        "height": {
+            "en": "178cm / 5'10\"",
+            "fr": "1m78"
+        },
+
+        "weight": {
+            "en": "80kg / 176lbs",
+            "fr": "80kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Former bodyguard",
+            "fr": "Ancien garde du corps"
+        },
+
+        "description": {
+            "en": "Hazel is a rather calm and thoughtful person. They are very peaceful and loves helping others, especially since losing their sight. He is also quite clumsy and slow because of this, he hasn't gotten used to it yet, and he is rather paranoid about those around him. They often refuse help and would really like to learn to manage on their own, even though it's difficult. He is also quite wary and skeptical about medication, preferring to treat himself with plants or home remedies. They are also a very environmentally conscious and caring person, especially towards those who are vulnerable, have disabilities, or are children.",
+            "fr": "Hazel est une personne assez calme et réfléchie, iel est très proche de la paix et aime énormément aider les autres, surtout depuis qu'iel a perdu ses yeux. Il est d'ailleurs assez maladroit et lent à cause de ça, il n'a pas encore pris l'habitude et il est assez parano des personnes autour. Il refuse souvent qu'on l'aide, il aimerait vraiment apprendre à se débrouiller seul, même si c'est difficile. Iel est aussi assez frileux et sceptique à propos des médicaments, iel préfère se soigner avec des plantes ou des remèdes de grand-mère. C'est d'ailleurs une personne très écologique et attentionnée, surtout avec les personnes assez faibles, qui ont des handicaps ou qui sont des enfants."
+        },
+        
+        "gallery": [
+            "img/characters/Hazel/hazel_01.png"
+            ],
+
+        "origin": {
+            "en": "Born a religious man named Vincent, Hazel is a name they chose around the age of 16 because they felt they lacked a clear identity, having witnessed the 'war' between men and women. Caught between men who are often portrayed as terrifying and women who are generally victims, they preferred to be addressed with a term that made them feel most comfortable, despite their masculine appearance. Around the age of 25, they worked for Aurel as a bodyguard. However, following a violent robbery at the age of 33, they lost their sight when their assailants stabbed them in the eyes. They don't try to hide their eyes with prosthetics, they abhor the idea. Instead, they show their true face, scars and all. They are not ashamed and don't want to conceal them except in public to avoid causing offense. Since then, Aurel sees him as useless and he's no longer given any real tasks, he ends up 'babysitting' Ara. It's also since they lost their sight that they no longer consider themselves religious. However, they still have a passion for gardening, whether it's flowers, vegetables, or even fruit, they love growing everything and donate some food to charities. In their daily life, they are often assisted by a woman who takes care of them.",
+            "fr": "Né en tant qu'homme religieux nommé Vincent, Hazel est un prénom qu'iel a choisi vers ses 16 ans, car il pense ne pas se définir, quand il a vu que les hommes et les femmes se font la 'guerre'. Entre les hommes qui sont terrifiants et les femmes qui sont victimes généralement, iel a préféré qu'on s'adresse à lui avec ce qui rend la personne le plus à l'aise, malgré que son apparence reste masculine. Vers ses 25 ans, il travaille pour Aurel, en tant que garde du corps. Mais suite à un cambriolage assez violent, alors qu'il avait 33 ans, il perdit la vue à cause des agresseurs qui lui ont poignardés les yeux. D'ailleurs, il ne cherche pas à cacher ses yeux avec des prothèses, il a horreur de ça puis il montre ainsi son vrai visage avec ses cicatrices, il n'a pas honte, il ne veut pas les cacher sauf en public pour éviter de choquer. Depuis, Aurel le voit comme inutile et on ne lui donne plus vraiment de tâches à faire, il finit par faire “babysitter” pour Ara. C'est d'ailleurs depuis qu'iel a perdu la vue qu'iel ne se considère plus comme religieux. Cependant, il a toujours comme passion de jardiner, que ce soit fleurs ou légumes, voir fruit, il adore tout faire pousser et donne quelques nourriture aux associations. Dans son quotidien, iel se fait souvent assister par une femme qui prend soin de lui."
+        },
+
+        "icon": "img/characters/Hazel/HazelCharacter.png"
     },
 
 
