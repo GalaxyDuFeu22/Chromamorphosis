@@ -539,7 +539,7 @@
 
         "title": {
             "en": "The Protector of Love",
-            "fr": "Le Protectrice de l'Amour"
+            "fr": "La Protectrice de l'Amour"
         },
 
         "fullname": "Sibel LaRose",
@@ -602,6 +602,452 @@
 
         "icon": "img/characters/Sibel/SibelCharacter.png"
     },
+
+  "arryn": {
+        "dotColor": "#389c7f",
+        "bgBase": "#50c7a3",
+        "secondcolor": "#0f4d35",
+        "thirdcolor": "#e4f7f1",
+
+        "profil": "img/characters/Arryn/arryn_01.png",
+
+        "name": "Arryn",
+
+        "title": {
+            "en": "The Protector of Nature",
+            "fr": "Le Protecteur de la Nature"
+        },
+
+        "fullname": "Arryn Lake",
+
+        "age": {
+            "en": "+150 years old",
+            "fr": "+150 ans"
+        },
+
+        "birthday": {
+            "en": "May 21",
+            "fr": "21 mai"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "178cm / 5'10\"",
+            "fr": "1m78"
+        },
+
+        "weight": {
+            "en": "85kg / 187lbs",
+            "fr": "85kg"
+        },
+
+        "situation01": {
+            "en": "Single father",
+            "fr": "Père célibataire"
+        },
+
+        "situation02": {
+            "en": "Gardener",
+            "fr": "Jardinier"
+        },
+
+        "description": {
+            "en": "Arryn is someone who loves taking care of others, especially the vulnerable, plants, and children. That's why he took in Chara when everyone else was afraid of her. He always has a need to care for others, it truly makes him happy, and he's very gentle with those around him. But he can also get quite angry if something isn't right. In truth, he has a slightly paranoid side, so he can sometimes be a little overprotective and possessive.",
+            "fr": "Arryn est quelqu'un qui adore s'occuper des autres, surtout des plus faibles, des plantes et des enfants. C'est d'ailleurs pourquoi il a recueilli Chara alors que tout le monde avait peur d'elle. Il a toujours un besoin de s'occuper des autres, ça le rend vraiment heureux, il est très doux avec son entourage. Mais il peut aussi assez facilement s'énerver si quelque chose ne va pas, en vérité, il a un côté un peu parano, donc ça lui arrive d'être un peu trop protecteur et possessif."
+        },
+        
+        "gallery": [
+            "img/characters/Arryn/arryn_01.png"
+            ],
+
+        "origin": {
+            "en": "Arryn, as a Protector, comes from the Father Tree. He was born primarily because deforestation was rampant. He was adopted by an old man who had recently lost his wife and felt extremely lonely. This man cared for Arryn, but unfortunately, he was already quite old and died when Arryn was only 13. Despite this, Arryn was able to fend for himself thanks to his father's guidance. Since Arryn was a minor, he needed to be under someone else's care, so one of the old man's sons took him in. He pleased the family with his independence and his gardening skills, but Arryn still cherishes the memories of his adoptive father, and he still comes to tend the flowers around his grave. Once he was an adult, Arryn wanted to have a child with his girlfriend, but she didn't want one. In fact, she eventually left him because she no longer truly loved him. So Arryn tried to find the woman of his dreams for a few years, but it never lasted, so he gave up. He had heard rumors that a certain Protector of Death had just been born at the Father Tree, and that's how he adopted Chara and took care of her. Arryn, connected to nature, has the power to make plants, roots, and mushrooms grow, but that's not all! Arryn also has a great ability to connect with animals, some even say he understands them.",
+            "fr": "Arryn, en tant que Protecteur, provient de l'Arbre Père, il est surtout né parce que la déforestation ne faisait que croître. Il a d'ailleurs été adopté par un vieux monsieur qui avait perdu sa femme il y a peu, il se sentait extrêmement seul. Il s'est ainsi occupé d'Arryn, malheureusement, il avait déjà un âge assez important, alors il est mort alors qu'Arryn n'avait que 13 ans. Il a su s'occuper tout seul malgré tout grâce à l'éducation de son père. Arryn a bien sûr dû être sous l'autorité d'une autre personne puisqu'il n'était pas adulte, alors sa garde a été donnée à un des fils du vieil homme. Il su satisfaire la famille avec son autonomie et sa capacité à jardiner, mais Arryn garde toujours en lui les souvenirs de son père adoptif, il vient encore faire fleurir les fleurs autour de sa tombe. Une fois adulte, Arryn a voulu avoir un enfant avec sa copine, mais elle ne voulait pas, elle a d'ailleurs fini par le quitter car elle ne l'aimait plus vraiment. Alors Arryn essaya de trouver peut-être la femme de sa vie pendant quelques années, mais ça ne durait jamais, alors il a abandonné. Il avait entendu des rumeurs comme quoi une certaine Protectrice de la Mort venait de naître à l'Arbre Père, et c'est ainsi qu'il adopta Chara et s'en occupa. Arryn, lié à la nature, a le pouvoir de faire pousser des plantes, des racines, des champignons, mais pas seulement ! Arryn a aussi une grande facilité à s'approcher des animaux, certains disent même qu'il les comprend."
+        },
+
+        "icon": "img/characters/Arryn/ArrynCharacter.png"
+    },
+
+  "chara": {
+        "dotColor": "#42a886",
+        "bgBase": "#59d492",
+        "secondcolor": "#1c573d",
+        "thirdcolor": "#a5f0d4",
+
+        "profil": "img/characters/Chara/chara_01.png",
+
+        "name": "Chara",
+
+        "title": {
+            "en": "The Protector of Death",
+            "fr": "La Protectrice de la Mort"
+        },
+
+        "fullname": "Chara Lake",
+
+        "age": {
+            "en": "8 years old",
+            "fr": "8 ans"
+        },
+
+        "birthday": {
+            "en": "November 13",
+            "fr": "13 novembre"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "125cm / 4'1\"",
+            "fr": "1m25"
+        },
+
+        "weight": {
+            "en": "23kg / 50lbs",
+            "fr": "23kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Pupil",
+            "fr": "Élève"
+        },
+
+        "description": {
+            "en": "Chara is a rather cautious girl who avoids contact with others for fear of 'poisoning' them, so she sometimes keeps to herself. However, she doesn't like being alone and wishes she could feel at ease with anyone. By being too careful about who she talks to and touches, she ends up withdrawing into herself, sometimes no longer daring to speak to others.",
+            "fr": "Chara est une fille assez prudente qui évite le contact avec les autres par peur de les “empoisonner”, alors elle reste parfois dans son coin. Cependant, elle n'aime pas être seule, et aimerait pouvoir être sereine avec n'importe qui. A force de faire trop attention à qui elle parle, qui elle touche, elle finit par se renfermer un peu trop sur elle même, n'osant parfois plus parler aux autres."
+        },
+        
+        "gallery": [
+            "img/characters/Chara/chara_01.png"
+            ],
+
+        "origin": {
+            "en": "Chara was never chosen to be adopted by humans, but luckily Arryn came to save her. She was always taught never to touch others with her hands because her power is too dangerous. Chara was born with the ability to kill a person instantly with her deadly touch, it's like a poison that penetrates skin and tissue. At least, the more she hates someone, the faster and more deadly this poison becomes. So it's possible that if she truly loves someone and trusts them, this poison won't be present on her hands when she touches them.",
+            "fr": "Chara n'a jamais été choisie pour être adoptée par les humains, mais heureusement qu'Arryn est venu la sauver. On lui a toujours appris à ne jamais toucher les autres avec ses mains car elle a un pouvoir trop dangereux. Chara est née avec la capacité de tuer la personne sur le champ avec son toucher mortel, c'est comme une sorte de poison qui traverse la peau et les tissus. Du moins, plus elle hait une personne, et plus ce poison est rapide et mortel. Alors il est possible que si elle aime vraiment une personne, qu'elle lui fait confiance, ce poison ne sera pas présent sur ses mains lors d'un toucher."
+        },
+
+        "icon": "img/characters/Chara/CharaCharacter.png"
+    },
+
+
+  "hazel": {
+        "dotColor": "#5d7991",
+        "bgBase": "#7297b8",
+        "secondcolor": "#232e38",
+        "thirdcolor": "#aebfd1",
+
+        "profil": "img/characters/Hazel/hazel_01.png",
+
+        "name": "Hazel",
+
+        "title": {
+            "en": "The blind person of peace",
+            "fr": "L'aveugle de la paix"
+        },
+
+        "fullname": "Hazel Tiersel",
+
+        "age": {
+            "en": "35 years old",
+            "fr": "35 ans"
+        },
+
+        "birthday": {
+            "en": "October 4",
+            "fr": "4 octobre"
+        },
+
+        "gender": {
+            "en": "Non-binary (All pronouns)",
+            "fr": "Non-binaire (Tous pronoms)"
+        },
+
+        "orientation": {
+            "en": "Asexual pansexual",
+            "fr": "Pansexuel asexué"
+        },
+
+        "height": {
+            "en": "178cm / 5'10\"",
+            "fr": "1m78"
+        },
+
+        "weight": {
+            "en": "80kg / 176lbs",
+            "fr": "80kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Former bodyguard",
+            "fr": "Ancien garde du corps"
+        },
+
+        "description": {
+            "en": "Hazel is a rather calm and thoughtful person. They are very peaceful and loves helping others, especially since losing their sight. He is also quite clumsy and slow because of this, he hasn't gotten used to it yet, and he is rather paranoid about those around him. They often refuse help and would really like to learn to manage on their own, even though it's difficult. He is also quite wary and skeptical about medication, preferring to treat himself with plants or home remedies. They are also a very environmentally conscious and caring person, especially towards those who are vulnerable, have disabilities, or are children.",
+            "fr": "Hazel est une personne assez calme et réfléchie, iel est très proche de la paix et aime énormément aider les autres, surtout depuis qu'iel a perdu ses yeux. Il est d'ailleurs assez maladroit et lent à cause de ça, il n'a pas encore pris l'habitude et il est assez parano des personnes autour. Il refuse souvent qu'on l'aide, il aimerait vraiment apprendre à se débrouiller seul, même si c'est difficile. Iel est aussi assez frileux et sceptique à propos des médicaments, iel préfère se soigner avec des plantes ou des remèdes de grand-mère. C'est d'ailleurs une personne très écologique et attentionnée, surtout avec les personnes assez faibles, qui ont des handicaps ou qui sont des enfants."
+        },
+        
+        "gallery": [
+            "img/characters/Hazel/hazel_01.png"
+            ],
+
+        "origin": {
+            "en": "Born a religious man named Vincent, Hazel is a name they chose around the age of 16 because they felt they lacked a clear identity, having witnessed the 'war' between men and women. Caught between men who are often portrayed as terrifying and women who are generally victims, they preferred to be addressed with a term that made them feel most comfortable, despite their masculine appearance. Around the age of 25, they worked for Aurel as a bodyguard. However, following a violent robbery at the age of 33, they lost their sight when their assailants stabbed them in the eyes. They don't try to hide their eyes with prosthetics, they abhor the idea. Instead, they show their true face, scars and all. They are not ashamed and don't want to conceal them except in public to avoid causing offense. Since then, Aurel sees him as useless and he's no longer given any real tasks, he ends up 'babysitting' Ara. It's also since they lost their sight that they no longer consider themselves religious. However, they still have a passion for gardening, whether it's flowers, vegetables, or even fruit, they love growing everything and donate some food to charities. In their daily life, they are often assisted by a woman who takes care of them.",
+            "fr": "Né en tant qu'homme religieux nommé Vincent, Hazel est un prénom qu'iel a choisi vers ses 16 ans, car il pense ne pas se définir, quand il a vu que les hommes et les femmes se font la 'guerre'. Entre les hommes qui sont terrifiants et les femmes qui sont victimes généralement, iel a préféré qu'on s'adresse à lui avec ce qui rend la personne le plus à l'aise, malgré que son apparence reste masculine. Vers ses 25 ans, il travaille pour Aurel, en tant que garde du corps. Mais suite à un cambriolage assez violent, alors qu'il avait 33 ans, il perdit la vue à cause des agresseurs qui lui ont poignardés les yeux. D'ailleurs, il ne cherche pas à cacher ses yeux avec des prothèses, il a horreur de ça puis il montre ainsi son vrai visage avec ses cicatrices, il n'a pas honte, il ne veut pas les cacher sauf en public pour éviter de choquer. Depuis, Aurel le voit comme inutile et on ne lui donne plus vraiment de tâches à faire, il finit par faire “babysitter” pour Ara. C'est d'ailleurs depuis qu'iel a perdu la vue qu'iel ne se considère plus comme religieux. Cependant, il a toujours comme passion de jardiner, que ce soit fleurs ou légumes, voir fruit, il adore tout faire pousser et donne quelques nourriture aux associations. Dans son quotidien, iel se fait souvent assister par une femme qui prend soin de lui."
+        },
+
+        "icon": "img/characters/Hazel/HazelCharacter.png"
+    },
+
+  "cathie": {
+        "dotColor": "#9c8e38",
+        "bgBase": "#c7a750",
+        "secondcolor": "#4d480f",
+        "thirdcolor": "#f7f5e4",
+
+        "profil": "img/characters/Cathie/cathie_01.png",
+
+        "name": "Cathie",
+
+        "title": {
+            "en": "A honey florist",
+            "fr": "Une fleuriste au miel"
+        },
+
+        "fullname": "Cathie Skyle",
+
+        "age": {
+            "en": "20 years old",
+            "fr": "20 ans"
+        },
+
+        "birthday": {
+            "en": "October 5",
+            "fr": "5 octobre"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Bisexual",
+            "fr": "Bisexuelle"
+        },
+
+        "height": {
+            "en": "170cm / 5'7\"",
+            "fr": "1m70"
+        },
+
+        "weight": {
+            "en": "68kg / 150lbs",
+            "fr": "68kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Florist",
+            "fr": "Fleuriste"
+        },
+
+        "description": {
+            "en": "Cathie is a woman who wants to live a peaceful and calm life. She is very considerate of others and often persists in trying to find out what's wrong with someone, she can be quite stubborn. She is also very jealous and she makes it known! Despite this, Cathie is very patient with others and loves to help whenever she can. She always looks for solutions and reassures others. She would also love to have children, she really enjoys taking care of people, so she thinks that having children would be perfect. Cathie is also very studious, she loves learning all sorts of things and remembers them well! She is particularly fond of plants and wants to know everything about them. She is also very curious, and when someone is hiding something, she will do almost anything to find out what it is!",
+            "fr": "Cathie est une femme qui veut vivre une vie assez paisible et calme. Elle fait très attention aux autres et elle force souvent pour savoir ce qui ne va pas chez quelqu'un, elle est assez têtue. C'est une femme aussi très jalouse et elle le fait savoir ! Malgré cela, Cathie est une femme très patiente envers les autres et elle adore aider quand elle peut, elle cherche toujours des solutions et rassure les autres.Elle aimerait bien aussi avoir des enfants, elle aime vraiment bien s'occuper de quelqu'un alors elle se dit qu'avec des enfants, c'est parfait.Cathie est aussi très studieuse en vérité, elle adore apprendre toutes sortes de choses et elle les retient bien ! Elle aime particulièrement la flore et elle veut tout savoir là-dessus.Elle est aussi très curieuse, et quand quelqu'un cache quelque chose, elle fait presque tout pour savoir ce que c'est !"
+        },
+        
+        "gallery": [
+            "img/characters/Cathie/cathie_01.png"
+            ],
+
+        "origin": {
+            "en": "She is the daughter of the Protector of Gentleness, but her father died of prostate cancer when she was only six years old. It was very hard for her and her mother, but they remained strong. Since then, her mother has raised her alone, not wanting to find a new father for her daughter. Cathie was born in England and has a lovely, rather British accent. Her mother was a florist, and Cathie was very interested in what she did. In fact, Cathie and her mother are like best friends, they get along wonderfully. When Cathie left the country to work in Suruna, she called her mother every day, and vice versa, to check in on her. Her mother sometimes comes to visit her when she can.",
+            "fr": "Elle est la fille de la Protectrice de la Douceur, mais son père est mort d'un cancer de la prostate alors qu'elle n'avait que 6 ans, cela a été très dur pour elle et sa mère, mais elles ont su restaient fortes, et depuis, sa mère était seule pour l'élever, ne voulant pas trouver un nouveau père pour sa fille. Cathie est née en Angleterre, et elle a un joli accent assez britannique. Sa mère était déjà fleuriste et Cathie était très intéressée par ce qu'elle faisait, en fait Cathie et sa mère sont comme des meilleures amies, elles s'entendent à merveille. Lorsque Cathie est partie du pays pour travailler à Suruna, quotidiennement elle appelle sa mère, et inversement, pour prendre des nouvelles. Il arrive à sa mère de venir lui rendre visite lorsqu'elle peut."
+        },
+
+        "icon": "img/characters/Cathie/CathieCharacter.png"
+    },
+
+  "galan": {
+        "dotColor": "#384d9c",
+        "bgBase": "#507dc7",
+        "secondcolor": "#0f184d",
+        "thirdcolor": "#e3e9f8",
+
+        "profil": "img/characters/Galan/galan_01.png",
+
+        "name": "Galan",
+
+        "title": {
+            "en": "The blue boy",
+            "fr": "Le garçon bleu"
+        },
+
+        "fullname": "Galan Rose",
+
+        "age": {
+            "en": "18 years old",
+            "fr": "18 ans"
+        },
+
+        "birthday": {
+            "en": "Septembre 26",
+            "fr": "26 septembre"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "178cm / 5'10\"",
+            "fr": "1m78"
+        },
+
+        "weight": {
+            "en": "86kg / 190lbs",
+            "fr": "86kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Student",
+            "fr": "Étudiant"
+        },
+
+        "description": {
+            "en": "Galan is a very sensitive man, he easily feels emotions depending on the situation. When he talks to someone in a bad mood, he senses that bad mood, making himself even more withdrawn and distant for fear of bothering them. He is someone who rarely takes risks in his life, he has developed a kind of social anxiety over the years and is not respected by others because he simply appears weak and withdrawn, and he speaks very little. Yet Galan is a very kind person, and he would very much like to help others, however, he doesn't know how to go about it and gives up easily. Unfortunately, he can be quite temperamental, he has inherited some of his father's temperament. If something catastrophic happens or someone hurts him, he could quickly become angry and possibly lash out. However, he will deeply regret it afterward and will do everything to be forgiven.",
+            "fr": "Galan est un homme très sensible, il ressent très facilement des émotions et sentiments selon la situation. Lorsqu'il discute avec une personne de mauvaise humeur, il ressent cette mauvaise humeur le rendant encore plus doux et distant par peur de déranger. C'est une personne qui n'ose que très peu de choses dans sa vie, il a acquis une sorte d'anxiété sociale au fil des années et il n'est pas respecté des autres, car il a simplement l'air faible et renfermé, il parle très peu. Pourtant Galan est quelqu'un de très gentil, et il aimerait beaucoup aider les autres, cependant, il ne sait pas comment s'y prendre et abandonne facilement. Malheureusement, il lui arrive d'être nerveux, il a pris un peu du caractère de son père si jamais il se passe quelque chose de catastrophique ou qu'on lui fait du mal, il pourrait vite s'énerver et éventuellement frapper. Cependant, il regrettera fort après et fera tout pour se faire pardonner."
+        },
+        
+        "gallery": [
+            "img/characters/Galan/galan_01.png"
+            ],
+
+        "origin": {
+            "en": "Galan is the son of Zaos, the Protector of Justice, but his mother left when he was only a few months old. In fact, his mother never wanted children, so Zaos had to raise him alone, but he was very violent with his son, which left lasting scars. Around the time of his adolescence, he questioned himself deeply, and even now, he often finds himself hating himself when he looks in the mirror.",
+            "fr": "Galan est le fils de Zaos, le Protecteur de la justice, mais sa mère est partie alors qu'il n'avait que quelques mois. En fait, sa mère n'a jamais voulu avoir d'enfant, alors Zaos a dû l'éduquer seul, mais il était très violent avec son fils ce qui a eu des séquelles sur lui. Vers son adolescence, il se posait beaucoup de questions sur lui-même, et même encore aujourd'hui, il lui arrive souvent de se détester en se regardant dans le miroir."
+        },
+
+        "icon": "img/characters/Galan/GalanCharacter.png"
+    },
+
+  "olympe": {
+        "dotColor": "#5e5f75",
+        "bgBase": "#838ba8",
+        "secondcolor": "#24242e",
+        "thirdcolor": "#cecfd6",
+
+        "profil": "img/characters/Olympe/olympe_01.png",
+
+        "name": "Olympe",
+
+        "title": {
+            "en": "The abandoned daughter",
+            "fr": "La fille abandonnée"
+        },
+
+        "fullname": "Olympe O'Donnell",
+
+        "age": {
+            "en": "10 years old",
+            "fr": "10 ans"
+        },
+
+        "birthday": {
+            "en": "Marsh 13",
+            "fr": "13 mars"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Lesbian",
+            "fr": "Lesbienne"
+        },
+
+        "height": {
+            "en": "135cm / 4'5\"",
+            "fr": "1m35"
+        },
+
+        "weight": {
+            "en": "35kg / 77lbs",
+            "fr": "35kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Pupil",
+            "fr": "Élève"
+        },
+
+        "description": {
+            "en": "Olympe is a highly sensitive, shy girl who lacks self-confidence. However, despite everything, she wants more than anything to help those she cares about, she hates feeling useless. She's also quite sensitive but doesn't dare show it, finding it ridiculous. Sometimes she just wants to be alone, to avoid people and simply take time for herself, but she loves chatting and spending time with those she cares about. What she enjoys doing is crocheting, whether it's amigurumi or clothes, it reassures and calms her during moments of intense emotion. She also sometimes draws, but mainly to visualize what she wants to create with crochet. Otherwise, she listens to music, especially rock, which allows her to retreat into her own world.",
+            "fr": "Olympe est une fille hypersensible, timide et n'a pas vraiment confiance en elle-même. Cependant, malgré tout, elle souhaite plus que tout aider ceux en qui elle tient, elle n'aime pas se sentir inutile. Elle a d'ailleurs un côté assez susceptible mais n'ose pas le montrer, trouvant que c'est ridicule. Il lui arrive parfois de vouloir rester seule, ne pas voir du monde et juste prendre du temps pour elle, mais elle adore discuter et passer du temps avec ceux en qui elle tient. Ce qu'elle aime faire, c'est faire du crochet, que ce soit des amigurumis ou des vêtements, cela la rassure et la calme dans des moments de forte émotion. Il lui arrive aussi de dessiner, mais c'est surtout pour avoir une vision de ce qu'elle veut réaliser au crochet. Sinon elle écoute de la musique, en particulier du rock, cela lui permet de rester un peu plus dans sa propre bulle."
+        },
+        
+        "gallery": [
+            "img/characters/Olympe/olympe_01.png"
+            ],
+
+        "origin": {
+            "en": "Olympe is Aurel's daughter, but he stopped paying attention to her after learning that the person he was searching for was still alive. She has always been a somewhat neglected child, despite her mother and brother's efforts to care for her. Always withdrawn, she has never truly been known by those around her.",
+            "fr": "Olympe est la fille d'Aurel, mais celui-ci a arrêté de la regarder depuis qu'il a appris que l'être qu'il recherche est toujours en vie. Elle a toujours été une enfant un peu négligée malgré que sa mère et son frère s'occupent d'elle. S'étant toujours renfermée sur elle-même, les gens autour ne la connaissant jamais vraiment à 100%."
+        },
+
+        "icon": "img/characters/Olympe/OlympeCharacter.png"
+    },
+
 
 
   "ara": {
@@ -1129,80 +1575,6 @@
         },
 
         "icon": "img/characters/Louiss/LouissCharacter.png"
-    },
-
-  "hazel": {
-        "dotColor": "#5d7991",
-        "bgBase": "#7297b8",
-        "secondcolor": "#232e38",
-        "thirdcolor": "#aebfd1",
-
-        "profil": "img/characters/Hazel/hazel_01.png",
-
-        "name": "Hazel",
-
-        "title": {
-            "en": "The blind person of peace",
-            "fr": "L'aveugle de la paix"
-        },
-
-        "fullname": "Hazel Tiersel",
-
-        "age": {
-            "en": "35 years old",
-            "fr": "35 ans"
-        },
-
-        "birthday": {
-            "en": "October 4",
-            "fr": "4 octobre"
-        },
-
-        "gender": {
-            "en": "Non-binary (All pronouns)",
-            "fr": "Non-binaire (Tous pronoms)"
-        },
-
-        "orientation": {
-            "en": "Asexual pansexual",
-            "fr": "Pansexuel asexué"
-        },
-
-        "height": {
-            "en": "178cm / 5'10\"",
-            "fr": "1m78"
-        },
-
-        "weight": {
-            "en": "80kg / 176lbs",
-            "fr": "80kg"
-        },
-
-        "situation01": {
-            "en": "Single",
-            "fr": "Célibataire"
-        },
-
-        "situation02": {
-            "en": "Former bodyguard",
-            "fr": "Ancien garde du corps"
-        },
-
-        "description": {
-            "en": "Hazel is a rather calm and thoughtful person. They are very peaceful and loves helping others, especially since losing their sight. He is also quite clumsy and slow because of this, he hasn't gotten used to it yet, and he is rather paranoid about those around him. They often refuse help and would really like to learn to manage on their own, even though it's difficult. He is also quite wary and skeptical about medication, preferring to treat himself with plants or home remedies. They are also a very environmentally conscious and caring person, especially towards those who are vulnerable, have disabilities, or are children.",
-            "fr": "Hazel est une personne assez calme et réfléchie, iel est très proche de la paix et aime énormément aider les autres, surtout depuis qu'iel a perdu ses yeux. Il est d'ailleurs assez maladroit et lent à cause de ça, il n'a pas encore pris l'habitude et il est assez parano des personnes autour. Il refuse souvent qu'on l'aide, il aimerait vraiment apprendre à se débrouiller seul, même si c'est difficile. Iel est aussi assez frileux et sceptique à propos des médicaments, iel préfère se soigner avec des plantes ou des remèdes de grand-mère. C'est d'ailleurs une personne très écologique et attentionnée, surtout avec les personnes assez faibles, qui ont des handicaps ou qui sont des enfants."
-        },
-        
-        "gallery": [
-            "img/characters/Hazel/hazel_01.png"
-            ],
-
-        "origin": {
-            "en": "Born a religious man named Vincent, Hazel is a name they chose around the age of 16 because they felt they lacked a clear identity, having witnessed the 'war' between men and women. Caught between men who are often portrayed as terrifying and women who are generally victims, they preferred to be addressed with a term that made them feel most comfortable, despite their masculine appearance. Around the age of 25, they worked for Aurel as a bodyguard. However, following a violent robbery at the age of 33, they lost their sight when their assailants stabbed them in the eyes. They don't try to hide their eyes with prosthetics, they abhor the idea. Instead, they show their true face, scars and all. They are not ashamed and don't want to conceal them except in public to avoid causing offense. Since then, Aurel sees him as useless and he's no longer given any real tasks, he ends up 'babysitting' Ara. It's also since they lost their sight that they no longer consider themselves religious. However, they still have a passion for gardening, whether it's flowers, vegetables, or even fruit, they love growing everything and donate some food to charities. In their daily life, they are often assisted by a woman who takes care of them.",
-            "fr": "Né en tant qu'homme religieux nommé Vincent, Hazel est un prénom qu'iel a choisi vers ses 16 ans, car il pense ne pas se définir, quand il a vu que les hommes et les femmes se font la 'guerre'. Entre les hommes qui sont terrifiants et les femmes qui sont victimes généralement, iel a préféré qu'on s'adresse à lui avec ce qui rend la personne le plus à l'aise, malgré que son apparence reste masculine. Vers ses 25 ans, il travaille pour Aurel, en tant que garde du corps. Mais suite à un cambriolage assez violent, alors qu'il avait 33 ans, il perdit la vue à cause des agresseurs qui lui ont poignardés les yeux. D'ailleurs, il ne cherche pas à cacher ses yeux avec des prothèses, il a horreur de ça puis il montre ainsi son vrai visage avec ses cicatrices, il n'a pas honte, il ne veut pas les cacher sauf en public pour éviter de choquer. Depuis, Aurel le voit comme inutile et on ne lui donne plus vraiment de tâches à faire, il finit par faire “babysitter” pour Ara. C'est d'ailleurs depuis qu'iel a perdu la vue qu'iel ne se considère plus comme religieux. Cependant, il a toujours comme passion de jardiner, que ce soit fleurs ou légumes, voir fruit, il adore tout faire pousser et donne quelques nourriture aux associations. Dans son quotidien, iel se fait souvent assister par une femme qui prend soin de lui."
-        },
-
-        "icon": "img/characters/Hazel/HazelCharacter.png"
     },
 
 

@@ -153,7 +153,6 @@ const rColor = [
 ];
 
 const rField = [
-    "dreams",
     "hope",
     "emotions",
     "beauty",

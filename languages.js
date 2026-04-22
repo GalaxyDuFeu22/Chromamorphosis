@@ -85,7 +85,6 @@ const translations = {
         bodyMarks: "Body marks",
         wantColors: "Want some colors ?",
 
-            dreams: "Dreams",
             hope: "Hope",
             emotions: "Emotions",
             beauty: "Beauty",
@@ -218,7 +217,6 @@ const translations = {
         bodyMarks: "Marques corporelles",
         wantColors: "Tu veux des couleurs ?",
 
-            dreams: "Rêves",
             hope: "Espoir",
             emotions: "Émotions",
             beauty: "Beauté",
