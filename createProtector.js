@@ -179,9 +179,9 @@ const rField = [
 ];
 
 const rGender = [
-    "img/randomGender/rgender01.png",
-    "img/randomGender/rgender02.png",
-    "img/randomGender/rgender03.png",
+    "img/randomGender/rgender01.PNG",
+    "img/randomGender/rgender02.PNG",
+    "img/randomGender/rgender03.PNG",
 ];
 
 const rOutfit = [

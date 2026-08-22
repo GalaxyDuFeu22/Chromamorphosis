@@ -281,8 +281,10 @@ function applyTranslation(lang) {
 function changeLang(lang) {
     localStorage.setItem("lang", lang);
     applyTranslation(lang);
+    if (typeof loadCharacter === "function") {
+        loadCharacter();
+    }
 }
-
 document.addEventListener("DOMContentLoaded", () => {
     const savedLang = localStorage.getItem("lang") || "fr";
     applyTranslation(savedLang);

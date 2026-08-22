@@ -225,13 +225,12 @@
         },
         
         "gallery": [
-            "img/characters/Domino/domino_01.png",
-            "img/characters/Domino/domino_02.png"
+            "img/characters/Domino/domino_01.png"
             ],
         
         "powers": {
-            "en": "TO BE WRITTEN",
-            "fr": "A ECRIRE"
+            "en": "Domino possesses two dice that he can conjure up whenever he pleases. Essentially, all he has to do is ask a person what they desire most; he then rolls a white die, and the number, ranging from 1 to 6, indicates the intensity of that person's desire. If the die lands on a 6, he grants the wish, but if it shows anything less, he is powerless to act. The second die, which is green, determines how the person will die; he is not required to ask for their input beforehand. He had to memorize the meaning of each number, for instance, a roll of 1 signifies death by old age.",
+            "fr": "Domino possède deux dés, qu’il peut faire apparaître quand cela lui chante. En fait, il lui suffit de demander à une personne ce qu’elle souhaite le plus, ensuite il lance un dé blanc et le chiffre, sur 6, représente à quel point cette personne souhaite ce qu’elle a dit. Si le dé tombe sur 6, alors il réalisera le souhait, mais si il tombe sur moins de 6, alors il ne pourra rien faire. Ensuite, le 2ème dé, qui est vert, représente comment la personne va mourir, il n’est pas obligé de demander à la personne son avis avant. Il a dû apprendre par cœur ce que chaque chiffre signifiait. Par exemple, le chiffre 1 correspond à la mort du vieillissement."
         },
 
         "origin": {
@@ -631,7 +630,7 @@
             ],
 
         "powers": {
-            "en": "Thanks to her touch, she is able to protect one person from another if that person loves her at least a little. For example, if someone shouts at another, Sibel touches the victim's shoulder, and thus the other person can no longer insult or hit her, showing that they care for the victim. With her eyes, she can also see the romantic feelings of others. From her perspective, it's like seeing in infrared, the pinker the light, the more in love the person is. Conversely, the bluer the light, the less the person cares for the other person. These powers don't work on other Protectors, and no, she can't make people fall in love, she's not Cupid! However, she can help people find their soulmate.",
+            "en": "Thanks to her touch, she is able to protect one person from another if that person loves them at least a little. For example, if someone shouts at another, Sibel touches the victim's shoulder, and thus the other person can no longer insult or hit them, showing that they care for the victim. With her eyes, she can also see the romantic feelings of others. From her perspective, it's like seeing in infrared, the pinker the light, the more in love the person is. Conversely, the bluer the light, the less the person cares for the other person. These powers don't work on other Protectors, and no, she can't make people fall in love, she's not Cupid! However, she can help people find their soulmate.",
             "fr": "Grâce à son touchée, elle est capable de protéger une personne contre une autre si celle-ci l'aime au moins un peu. Par exemple, si une personne crie sur une autre, Sibel vient toucher l'épaule de la victime, et ainsi la personne en face ne peut plus l'insulter ou la frapper, montrant alors que cette personne tient à la victime. Avec ses yeux, elle est aussi capable de voir les sentiments amoureux des autres, depuis ses yeux, c'est comme voir en vision infrarouge, plus c'est rose, et plus la personne est amoureuse. Inversement, plus c'est bleu, et plus la personne ne tient pas à la personne en face d'elle. Ces pouvoirs ne fonctionnent pas sur les autres Protecteurs et non, elle ne peut pas rendre les gens amoureux, ce n'est pas Cupidon ! Elle peut cependant aider les gens à trouver leur âme sœur."
         },
 
@@ -1624,6 +1623,79 @@
         "icon": "img/characters/Louiss/LouissCharacter.png"
     },
 
+  "yris": {
+        "dotColor": "#8b42a8",
+        "bgBase": "#9c59d4",
+        "secondcolor": "#461c57",
+        "thirdcolor": "#cba5f0",
+
+        "profil": "img/characters/Yris/yris_01.png",
+
+        "name": "Yris",
+
+        "title": {
+            "en": "The forgotten bride",
+            "fr": "La mariée oubliée"
+        },
+
+        "fullname": "Yris O'Donnell",
+
+        "age": {
+            "en": "42 years old",
+            "fr": "42 ans"
+        },
+
+        "birthday": {
+            "en": "July 1st",
+            "fr": "1er Juillet"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "172cm / 5'8\"",
+            "fr": "1m72"
+        },
+
+        "weight": {
+            "en": "71kg / 157lbs",
+            "fr": "71kg"
+        },
+
+        "situation01": {
+            "en": "Married mother",
+            "fr": "Mère mariée"
+        },
+
+        "situation02": {
+            "en": "Town hall secretary",
+            "fr": "Secrétaire à la mairie"
+        },
+
+        "description": {
+            "en": "Yris is quite attentive, yet she lives largely in the future, constantly looking ahead. Whether it concerns home décor, her friends, her family, or her colleagues, she habitually envisions what their futures could look like and how they might be improved. Sometimes she focuses so much on what lies ahead that she neglects to consider the present, reflecting on what is currently working or not, or even the past. She can also be quite strict when necessary, especially with her children, again, a matter of looking to the future. She is a stickler for order and a perfectionist; she likes things tidy, clean, and organized, and a lack of order causes her stress. Yris is an intelligent, thoughtful woman who takes the time to weigh many factors before proposing an idea or solution. However, she sometimes overthinks things and loses sight of what is truly essential.",
+            "fr": "Yris est une femme assez attentive mais elle vit beaucoup dans le futur, elle se projette très souvent. Que ce soit en décoration, ses amis, sa famille ou ses collègues, elle a l’habitude de voir comment pourrait être leur futur et comment l’améliorer. Parfois elle pense tellement au lendemain qu’elle oublie de réfléchir dans le présent, à se demander ce qui va ou ne va pas actuellement, de même pour le passé. Elle est aussi assez stricte quand il le faut, surtout envers ses enfants, encore une histoire de futur. Elle est de même maniaque et perfectionniste, elle aime quand les choses sont bien rangées, propres et organisées, sinon ça lui procure du stress. Yris reste une femme intelligente et réfléchie, elle prend le temps de prendre en compte beaucoup d’aspects avant de proposer une idée ou solution. Mais parfois elle réfléchit un peu trop et en oublie l’essentiel."
+        },
+        
+        "gallery": [
+            "img/characters/Yris/yris_01.png"
+            ],
+
+        "origin": {
+            "en": "She came from a family where her mother was a model, so she naturally followed in her footsteps, though she didn't achieve quite the same level of success. In reality, she was more of an intellectual, so she focused primarily on her law studies. She had always been fascinated by the world, history, and the law, interests that helped her win numerous debates. It was during her studies that she met Aurel; he was a serious student and one of the top performers in the class. Calm, attentive, and handsome, he won Yris’s heart. They often helped each other with their coursework, and gradually, love blossomed. Years later, they married after Aurel had become mayor. They had their first child, Alan, followed later by Olympe. Together, they now run the town hall, or at least they did, until Aurel discovered that a certain person was still alive...",
+            "fr": "Elle vient d’une famille où la mère était mannequin, alors elle a naturellement suivi sa voie, cependant elle n’a pas eu autant de succès que sa mère. En réalité, elle était plus intellectuelle alors elle se focalisait davantage sur ses études en droit. Elle a toujours été fascinée par le monde, l’Histoire et les lois, ce qui lui permet de gagner plusieurs débats. Elle a d’ailleurs rencontré Aurel durant ses études, il était très sérieux et faisait partie des meilleurs de la classe. Il était aussi calme et attentif, puis très beau, ce qui avait eu le coeur d’Yris. Il s'entraidaient souvent pour les cours, puis petit à petit l’amour est né. Ils ont fini par se marier des années plus tard alors qu’Aurel était devenu maire. Ils ont eu leur premier enfant Alan, puis plus tard Olympe. A deux, ils dirigent maintenant la mairie, enfin, jusqu’à ce qu'Aurel découvre qu’une certaine personne est toujours en vie..."
+        },
+
+        "icon": "img/characters/Yris/YrisCharacter.png"
+    },
 
   "koneo": {
         "dotColor": "#8b42a8",
