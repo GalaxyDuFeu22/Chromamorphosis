@@ -157,14 +157,6 @@ footer{
     justify-content: center;
 }
 
-#game {
-    border: 10px solid transparent;
-    border-image: url(img/whiteBorderL.PNG) 22;
-    border-radius: 30px;
-    padding: 15px;
-    background-color: rgba(113, 133, 138, 0.6);
-}
-
 #follow {
     display: flex;
     position: absolute;
