@@ -64,7 +64,9 @@
             "img/characters/Grouka/grouka_01.png",
             "img/characters/Grouka/grouka_02.png",
             "img/characters/Grouka/grouka_03.png",
-            "img/characters/Grouka/grouka_04.png"
+            "img/characters/Grouka/grouka_04.png",
+            "img/characters/Grouka/grouka_05.png",
+            "img/characters/Grouka/grouka_06.png"
             ],
         
         "powers": {
@@ -1162,7 +1164,8 @@
         },
         
         "gallery": [
-            "img/characters/Ara/ara_01.png"
+            "img/characters/Ara/ara_01.png",
+            "img/characters/Ara/ara_02.png"
             ],
 
         "origin": {
@@ -1238,7 +1241,8 @@
         "gallery": [
             "img/characters/Alison/alison_01.png",
             "img/characters/Alison/alison_02.png",
-            "img/characters/Alison/alison_03.png"
+            "img/characters/Alison/alison_03.png",
+            "img/characters/Alison/alison_04.png"
             ],
 
         "origin": {
@@ -1696,6 +1700,155 @@
 
         "icon": "img/characters/Yris/YrisCharacter.png"
     },
+
+  "simon": {
+        "dotColor": "#42a861",
+        "bgBase": "#59d47c",
+        "secondcolor": "#1c5728",
+        "thirdcolor": "#a5f0b4",
+
+        "profil": "img/characters/Simon/simon_01.png",
+
+        "name": "Simon",
+
+        "title": {
+            "en": "The rockstar messenger",
+            "fr": "Le rockstar messager"
+        },
+
+        "fullname": "Simon Daher",
+
+        "age": {
+            "en": "24 years old",
+            "fr": "24 ans"
+        },
+
+        "birthday": {
+            "en": "February 23",
+            "fr": "23 dévrier"
+        },
+
+        "gender": {
+            "en": "Male",
+            "fr": "Homme"
+        },
+
+        "orientation": {
+            "en": "Gay",
+            "fr": "Gay"
+        },
+
+        "height": {
+            "en": "183cm / 6'0\"",
+            "fr": "1m83"
+        },
+
+        "weight": {
+            "en": "80kg / 176lbs",
+            "fr": "80kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Composer / Songwriter / Performer",
+            "fr": "Compositeur / Auteur / Interprète"
+        },
+
+        "description": {
+            "en": "Simon is a rather sensitive man, but he knows what he’s fighting for; in fact, he’s a fantastic singer who plays the synth on stage alongside his sister. He isn’t afraid to raise his voice to get a message across, he’s the one who writes the music, while his sister corrects his spelling mistakes! He is shy, blushes easily, and is prone to panicking, yet he is very gentle and caring, someone you can truly trust. He also has a tendency to want to dress in a more feminine style, a bit like a 'femboy', but he never dares to show it publicly, so he mostly does so in the privacy of his own room.",
+            "fr": "Simon est un homme assez sensible, mais il sait pourquoi il se bat, en fait, c’est un super chanteur qui joue au synthé sur scène avec sa sœur. Il ose hausser la voix pour faire passer un message, il est d’ailleurs celui qui écrit les musiques, avec sa sœur qui corrige ses fautes d’orthographes ! Il est timide, il rougit assez vite et panique aussi, mais il est très doux et attentionné, on peut lui faire confiance. Il a d’ailleurs parfois tendance à vouloir s’habiller de façon plus féminine, un peu comme un femboy, mais il n’ose jamais le montrer alors il le fait surtout dans sa chambre."
+        },
+        
+        "gallery": [
+            "img/characters/Simon/simon_01.png"
+            ],
+
+        "origin": {
+            "en": "He was born in a country where freedom is scarce, making life quite difficult for him, especially when he discovered he was attracted to men. He didn't dare tell anyone, though his older sister, Kayrah, eventually found out; fortunately, she was supportive. Both he and Kayrah were huge fans of rock music and singers, and it was his sister who suggested they start a small band together. They taught themselves to sing and play instruments, then gradually began posting content, starting with covers, on social media. They slowly gained recognition and eventually officially formed a band called 'Cosmos Hunters', named for their love of space and constellations. Since then, they have toured in neighboring towns and used their earnings for good causes, such as donating to charities and helping the poor or others in need. Together, they fight for freedom and balance in the world.",
+            "fr": "Il est né dans un pays où la liberté est très peu présente, alors cela a été assez compliqué pour lui, surtout lorsqu’il a découvert qu’il aimait les hommes. Il n’ose le dire à personne, même si sa grande sœur, Kayrah, en a été au courant, heureusement, elle le soutient. Lui et Kayrah ont toujours été fan de rock, des chanteurs, de la musique, et c’est sa sœur qui lui a donné l’idée de créer un petit groupe entre eux. Alors ils ont appris à chanter et utiliser des instruments en autodidacte puis ils ont commencé à poster petit à petit sur les réseaux, en commençant par des covers. Ils deviennent petit à petit connus puis ils ont fini par officiellement créer leur groupe les “Cosmos Hunters” car ils sont fan de l’espace et des constellations. Depuis, ils font quelques tournées dans les villes voisines, ils utilisent aussi l’argent gagné pour de bonnes causes comme pour faire des dons à des associations, des dons aux pauvres ou d’autres personnes dans le besoin. A eux deux, ils se battent pour la liberté et l’équilibre dans le monde."
+        },
+
+        "icon": "img/characters/Simon/SimonCharacter.png"
+    },
+
+  "kayrah": {
+        "dotColor": "#9e2020",
+        "bgBase": "#c72e2e",
+        "secondcolor": "#801b1b",
+        "thirdcolor": "#f7d7d7",
+
+        "profil": "img/characters/Kayrah/kayrah_01.png",
+
+        "name": "Kayrah",
+
+        "title": {
+            "en": "The rockstar messenger",
+            "fr": "La messagère rockstar"
+        },
+
+        "fullname": "Kayrah Daher",
+
+        "age": {
+            "en": "26 years old",
+            "fr": "26 ans"
+        },
+
+        "birthday": {
+            "en": "May 6",
+            "fr": "6 may"
+        },
+
+        "gender": {
+            "en": "Female",
+            "fr": "Femme"
+        },
+
+        "orientation": {
+            "en": "Straight",
+            "fr": "Hétéro"
+        },
+
+        "height": {
+            "en": "166cm / 5'5\"",
+            "fr": "1m66"
+        },
+
+        "weight": {
+            "en": "65kg / 143lbs",
+            "fr": "65kg"
+        },
+
+        "situation01": {
+            "en": "Single",
+            "fr": "Célibataire"
+        },
+
+        "situation02": {
+            "en": "Composer / Songwriter / Performer",
+            "fr": "Compositeur / Auteur / Interprète"
+        },
+
+        "description": {
+            "en": "Kayrah has a pretty strong personality; she doesn't let people walk all over her, yet she is very friendly. She is quite laid-back and fun, she loves laughing with others, but she is also very understanding. Sometimes she’s a real chatterbox who just won't stop talking, whether with her brother Simon or her friends; unlike him, she is very sociable.",
+            "fr": "Kayrah a un assez fort caractère, elle ne se laisse pas marcher dessus, mais elle est très sympathique. Elle est assez tranquille et amusante, elle adore rire avec les autres, mais elle est aussi très compréhensive. Parfois c’est une vraie pipelette qui ne fait que parler, que ce soit avec son frère Simon ou ses amis, elle est très sociable contrairement à lui."
+        },
+        
+        "gallery": [
+            "img/characters/Kayrah/kayrah_01.png"
+            ],
+
+        "origin": {
+            "en": "She was born in a country where freedom is scarce, so things were quite difficult for her, though even harder for her brother, Simon. Both she and Simon were always fans of rock music and singers, and she came up with the idea of ​​forming a band with her younger brother. They taught themselves to sing and play instruments, then gradually began posting content on social media, starting with covers. They slowly gained recognition and eventually officially formed their band, 'Cosmos Hunters', a name inspired by their love of space and constellations. Since then, they have toured in neighboring towns and used their earnings for good causes, such as donating to charities or helping the poor and others in need. Together, they fight for freedom and balance in the world.",
+            "fr": "Elle est née dans un pays où la liberté est très peu présente, alors cela a été assez compliqué pour elle, mais ça l’était plus pour son frère Simon. Elle et Simon ont toujours été fan de rock, des chanteurs, de la musique, et elle a eu l’idée de créer un groupe avec son petit frère. Alors ils ont appris à chanter et utiliser des instruments en autodidacte puis ils ont commencé à poster petit à petit sur les réseaux, en commençant par des covers. Ils deviennent petit à petit connus puis ils ont fini par officiellement créer leur groupe les “Cosmos Hunters” car ils sont fan de l’espace et des constellations. Depuis, ils font quelques tournées dans les villes voisines, ils utilisent aussi l’argent gagné pour de bonnes causes comme pour faire des dons à des associations, des dons aux pauvres ou d’autres personnes dans le besoin. A eux deux, ils se battent pour la liberté et l’équilibre dans le monde."
+        },
+
+        "icon": "img/characters/Kayrah/KayrahCharacter.png"
+    },
+
 
   "koneo": {
         "dotColor": "#8b42a8",
